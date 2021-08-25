@@ -726,11 +726,6 @@ export class App extends LitElement {
 				`)}
 			</main>
 			<footer id="footer">
-				<div>
-					<a href="https://www.buymeacoffee.com/AndreasMehlsen" target="_blank" aria-label="Buy coffee" rel="noopener">
-						<ws-button>☕️ Support me with a cup of coffee</ws-button>
-					</a>
-				</div>
 			</footer>
 			<ws-blur id="blur"></ws-blur>
 		`;
