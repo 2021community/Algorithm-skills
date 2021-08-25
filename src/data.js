@@ -1,6 +1,7 @@
 import {languageCollection} from "./data/language.js";
 import {datastructureCollection} from "./data/datastructure.js";
 import {algorithmCollection} from "./data/algorithm.js";
+import {codingtestCollection} from "./data/codingtest.js";
 import {fundamentalsCollection} from "./data/fundamentals.js";
 import {webcomponentsCollection} from "./data/web-components.js";
 import {accessibilityCollection} from "./data/accessibility.js";
@@ -22,6 +23,7 @@ export const collections = [
 	languageCollection,
 	datastructureCollection,
 	algorithmCollection,
+	codingtestCollection,
 	fundamentalsCollection,
 	accessibilityCollection,
 	webcomponentsCollection,
