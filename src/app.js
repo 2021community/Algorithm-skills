@@ -727,9 +727,6 @@ export class App extends LitElement {
 			</main>
 			<footer id="footer">
 				<div>
-					<a href="https://twitter.com/AndreasMehlsen" target="_blank" aria-label="Open Twitter" rel="noopener">
-						<ws-button>🐦 Say hi on Twitter</ws-button>
-					</a>
 					<a href="https://www.buymeacoffee.com/AndreasMehlsen" target="_blank" aria-label="Buy coffee" rel="noopener">
 						<ws-button>☕️ Support me with a cup of coffee</ws-button>
 					</a>
