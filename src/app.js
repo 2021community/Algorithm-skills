@@ -727,11 +727,6 @@ export class App extends LitElement {
 			</main>
 			<footer id="footer">
 				<div>
-					${user != null ? html`
-						<ws-button @click="${signOut}">🔓 Sign out</ws-button>
-					` : html`
-						<ws-button @click="${signIn}">🔒 Sign in with Google</ws-button>
-					`}
 					<a href="https://github.com/andreasbm/web-skills/stargazers" target="_blank" aria-label="Become a stargazer" rel="noopener">
 						<ws-button>⭐️ Become a stargazer</ws-button>
 					</a>
