@@ -32,7 +32,16 @@ export const datastructureCollection = {
 								]
 						   },
 						},
-						
+						{
+						   name: "이중_연결_리스트",
+						   description: {
+							  text: "이중 연결 리스트의 구조는 단일 연결 리스트와 비슷하지만, 포인터 공간이 두 개가 있고 각각의 포인터는 앞의 노드와 뒤의 노드를 가리킨다.",
+							  links: [
+								["이중 연결 리스트 - 위키 트리", "https://ko.wikipedia.org/wiki/%EC%97%B0%EA%B2%B0_%EB%A6%AC%EC%8A%A4%ED%8A%B8"],
+							   ]
+						   },
+						},
+
 					 ]
 				},
 			]
