@@ -73,6 +73,16 @@ export const datastructureCollection = {
 						]
 					}
 				},
+
+				{
+					name: "데크",
+					description: {
+						text: "데크(deque)는 양쪽 끝에서 삽입과 삭제가 모두 가능한 자료 구조의 한 형태이다.",
+						links: [
+							["데크 - 위키트리", "https://ko.wikipedia.org/wiki/%EB%8D%B1_(%EC%9E%90%EB%A3%8C_%EA%B5%AC%EC%A1%B0)"],
+						]
+					}
+				},
 				
 			]
 
