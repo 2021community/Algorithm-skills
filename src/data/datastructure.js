@@ -63,6 +63,16 @@ export const datastructureCollection = {
 						]
 					}
 				},
+
+				{
+					name: "큐",
+					description: {
+						text: "큐(queue)는 컴퓨터의 기본적인 자료 구조의 한가지로, 먼저 집어 넣은 데이터가 먼저 나오는 FIFO(First In First Out)구조로 저장하는 형식을 말한다.",
+						links: [
+							["큐 - 위키트리", "https://ko.wikipedia.org/wiki/%ED%81%90_(%EC%9E%90%EB%A3%8C_%EA%B5%AC%EC%A1%B0)"],
+						]
+					}
+				},
 				
 			]
 
