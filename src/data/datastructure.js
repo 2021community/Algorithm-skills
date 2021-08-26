@@ -41,9 +41,19 @@ export const datastructureCollection = {
 							   ]
 						   },
 						},
+						{
+							name: "원형_연결_리스트",
+							description: {
+							  text: "원형 연결 리스트는 일반적인 연결 리스트에 마지막 노드와 처음 노드를 연결시켜 원형으로 만든 구조이다.",
+							  links: [
+							   ["원형 연결 리스트 - 위키 트리", "https://ko.wikipedia.org/wiki/%EC%97%B0%EA%B2%B0_%EB%A6%AC%EC%8A%A4%ED%8A%B8"],
+							   ]
+							}
+						 }
 
 					 ]
 				},
+				
 			]
 
 			
