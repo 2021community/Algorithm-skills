@@ -28,7 +28,9 @@ export const algorithmCollection = {
                                     ["KMP - velog", "https://velog.io/@junhok82/KMP"],
                                     ["KMP - 추천문제", "https://www.acmicpc.net/problem/1786"],
                                 ]
-                            },
+                            }
+                        },
+                        {
                             name: "트라이",
                             description: {
                                 text: "문자열을 저장하고 효율적으로 탐색하기 위한 트리 형태의 자료구조를 문자열 탐색을 nlog(n)에 가능하게 하는 알고리즘이다.",
