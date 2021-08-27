@@ -39,6 +39,15 @@ export const languageCollection = {
 						]
 					}
 				},
+				{
+					name: "swift",
+					description: {
+						text: "스위프트는 IOS 직무 지원 시, 오로지 Swift만 사용 가능한 경우가 꽤 있다. 하지만 이 경우가 아니라면 코딩 테스트의 주력언어로는 다른 언어를 고르는 것을 추천한다.",
+						links: [
+							["스위프트 - 위키백과", "https://ko.wikipedia.org/wiki/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4)"],
+						]
+					}
+				}
 			]
 		}
 	]
