@@ -39,6 +39,16 @@ export const algorithmCollection = {
                                     ["트라이 - 추천문제", "https://www.acmicpc.net/problem/14725"],
                                 ]
                             }
+                        },
+                        {
+                            name: "매니커",
+                            description: {
+                                text: "문자열에 존재하는 팰린드롬 부분 문자열을 빠르게 찾을 수 있는 알고리즘이다.",
+                                links: [
+                                    ["매니커 - 블로그", "https://00ad-8e71-00ff-055d.tistory.com/91"],
+                                    ["매니커 - 추천문제", "https://www.acmicpc.net/problem/13275"],
+                                ]
+                            }
                         }
                     ]
 			    }
