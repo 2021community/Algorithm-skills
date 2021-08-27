@@ -5,7 +5,6 @@ import {codingtestCollection} from "./data/codingtest.js";
 
 import {architectureCollection} from "./data/architecture-and-paradigmes.js";
 import {testingCollection} from "./data/testing.js";
-import {frameworksAndLibrariesCollection} from "./data/frameworks-and-libraries.js";
 import {modernCollection} from "./data/modern.js";
 import {teamCollaborationCollection} from "./data/team-collaboration.js";
 import {algorithmsCollection} from "./data/algorithms.js";
@@ -21,7 +20,6 @@ export const collections = [
 	algorithmCollection,
 	codingtestCollection,
 
-	frameworksAndLibrariesCollection,
 	testingCollection,
 	architectureCollection,
 	teamCollaborationCollection,
