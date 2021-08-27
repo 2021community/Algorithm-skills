@@ -15,7 +15,7 @@ export const datastructureCollection = {
 					}
 				},
 				{
-					name: "연결_리스트",
+					name: "연결 리스트",
 					description: {
 						text: "연결 리스트(linked list)는 각 노드가 데이터와 포인터를 가지고 한 줄로 연결되어 있는 방식으로 데이터를 저장하는 자료 구조이다.",
 						links: [
@@ -24,7 +24,7 @@ export const datastructureCollection = {
 					},
 					skills: [
 						{
-						   name: "단일_연결_리스트",
+						   name: "단일 연결 리스트",
 						   description: {
 							  text: "단일 연결 리스트는 각 노드에 자료 공간과 한 개의 포인터 공간이 있고, 각 노드의 포인터는 다음 노드를 가리킨다.",
 							  links: [
@@ -33,7 +33,7 @@ export const datastructureCollection = {
 						   },
 						},
 						{
-						   name: "이중_연결_리스트",
+						   name: "이중 연결 리스트",
 						   description: {
 							  text: "이중 연결 리스트의 구조는 단일 연결 리스트와 비슷하지만, 포인터 공간이 두 개가 있고 각각의 포인터는 앞의 노드와 뒤의 노드를 가리킨다.",
 							  links: [
@@ -42,7 +42,7 @@ export const datastructureCollection = {
 						   },
 						},
 						{
-							name: "원형_연결_리스트",
+							name: "원형 연결 리스트",
 							description: {
 							  text: "원형 연결 리스트는 일반적인 연결 리스트에 마지막 노드와 처음 노드를 연결시켜 원형으로 만든 구조이다.",
 							  links: [
