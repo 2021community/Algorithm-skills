@@ -3,7 +3,6 @@ import {datastructureCollection} from "./data/datastructure.js";
 import {algorithmCollection} from "./data/algorithm.js";
 import {codingtestCollection} from "./data/codingtest.js";
 
-import {webcomponentsCollection} from "./data/web-components.js";
 import {pwaCollection} from "./data/pwa.js";
 import {architectureCollection} from "./data/architecture-and-paradigmes.js";
 import {buildtoolsCollection} from "./data/build-tools.js";
@@ -24,7 +23,6 @@ export const collections = [
 	algorithmCollection,
 	codingtestCollection,
 
-	webcomponentsCollection,
 	pwaCollection,
 	buildtoolsCollection,
 	frameworksAndLibrariesCollection,
