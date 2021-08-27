@@ -4,6 +4,12 @@ export const algorithmCollection = {
 	    {
 			name: "기초",
 			skills: [
+
+			]
+		},
+		{
+			name: "심화",
+			skills: [
 			    {
                     name: "문자열",
                     description: {
@@ -33,12 +39,7 @@ export const algorithmCollection = {
                             }
                         }
                     ]
-                }
-			]
-		},
-		{
-			name: "심화",
-			skills: [
+			    }
 
 		    ]
 		},
