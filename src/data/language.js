@@ -21,6 +21,15 @@ export const languageCollection = {
 						]
 					}
 				},
+				{
+					name: "java",
+					description: {
+						text: "자바는 개발쪽에선 범용성이 최강이다. 하지만 코딩 테스트에선 실행시간이 c++보다 느리며, 문법이 어렵다는 단점을 가지고 있다.",
+						links: [
+							["자바 - 위키트리", "https://ko.wikipedia.org/wiki/%EC%9E%90%EB%B0%94_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4)"],
+						]
+					}
+				},
 			]
 		}
 	]
