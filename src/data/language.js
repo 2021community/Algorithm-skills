@@ -12,6 +12,15 @@ export const languageCollection = {
 						]
 					}
 				},
+				{
+					name: "python",
+					description: {
+						text: "파이썬은 integer overflow를 고려할 필요가 없다는 장점이 있지만, 실행시간이 느리다는 단점이 있다.",
+						links: [
+							["파이썬 - 위키트리", "https://ko.wikipedia.org/wiki/%ED%8C%8C%EC%9D%B4%EC%8D%AC"],
+						]
+					}
+				},
 			]
 		}
 	]
