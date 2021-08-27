@@ -5,7 +5,6 @@ import {codingtestCollection} from "./data/codingtest.js";
 
 import {modernCollection} from "./data/modern.js";
 import {algorithmsCollection} from "./data/algorithms.js";
-import {designAndUXCollection} from "./data/design-and-ux.js";
 import {databasesCollection} from "./data/databases.js";
 
 /**
@@ -17,7 +16,6 @@ export const collections = [
 	algorithmCollection,
 	codingtestCollection,
 
-	designAndUXCollection,
 	modernCollection,
 	algorithmsCollection,
 	databasesCollection,
