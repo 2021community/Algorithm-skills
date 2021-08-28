@@ -10,8 +10,19 @@ export const languageCollection = {
 						links: [
 							["C++ - 위키백과", "https://ko.wikipedia.org/wiki/C%2B%2B"],
 							["표준 템플릿 라이브러리(STL) - 위키백과", "https://ko.wikipedia.org/wiki/%ED%91%9C%EC%A4%80_%ED%85%9C%ED%94%8C%EB%A6%BF_%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC#%EA%B5%AC%EC%84%B1"],
-						]
-					}
+						],
+					},
+					skills: [
+						{
+							name: "C언어",
+							description: {
+								text: "C언어는 출력 형식이 비교적 자유로우며, 포인터, 구조체 등을 입문하기에 좋은 언어이다. 하지만 대부분의 자료구조들을 직접 구현해야 되기 때문에 C언어로 입문한 후, C++ 갈아타는 것을 추천한다.",
+								links: [
+									["C언어 - 위키백과", "https://ko.wikipedia.org/wiki/C_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4)"],
+								]
+							},
+						},
+					]
 				},
 				{
 					name: "python",
