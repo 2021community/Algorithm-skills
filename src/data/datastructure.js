@@ -103,6 +103,17 @@ export const datastructureCollection = {
 						]
 					},
 					skills: [
+
+						{
+							name: "트라이",
+							description: {
+								text: "트라이(trie)는 컴퓨터 과학에서 탐색 트리의 일종이다. 동적 집합이나 연관 배열을 저장하는 데 사용되는 트리 자료 구조이다.",
+								links: [
+									["트라이 - 위키백과", "https://ko.wikipedia.org/wiki/%ED%8A%B8%EB%9D%BC%EC%9D%B4_(%EC%BB%B4%ED%93%A8%ED%8C%85)"],
+								]
+							}
+						},
+
 						{
 						   name: "이진 트리",
 						   description: {
