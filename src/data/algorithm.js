@@ -45,6 +45,16 @@ export const algorithmCollection = {
 								]
 							},
 						},
+						{
+							name: "퀵 정렬",
+							description: {
+								text: "퀵 정렬은 n개의 데이터를 정렬할 때, 최악의 경우에는 O(n²)번의 비교를 수행하고, 평균적으로 O(n log n)번의 비교를 수행한다.",
+								links: [
+									["퀵 정렬 - 위키백과", "https://ko.wikipedia.org/wiki/%ED%80%B5_%EC%A0%95%EB%A0%AC"],
+									["퀵 정렬이 수행되는 과정 - YouTube", "https://www.youtube.com/watch?v=ywWBy6J5gz8&ab_channel=AlgoRythmics"],
+								]
+							},
+						},
 					]
 				}
 			]
