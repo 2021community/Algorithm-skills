@@ -35,6 +35,16 @@ export const algorithmCollection = {
 								]
 							},
 						},
+						{
+							name: "병합 정렬",
+							description: {
+								text: "병합 정렬은 시간복잡도가 O(n log n)인 비교 기반 정렬 알고리즘이다. 일반적인 방법으로 구현했을 때 이 정렬은 안정(stable) 정렬에 속하며, 분할 정복 알고리즘의 하나이다.",
+								links: [
+									["병합 정렬 - 위키백과", "https://ko.wikipedia.org/wiki/%ED%95%A9%EB%B3%91_%EC%A0%95%EB%A0%AC"],
+									["병합 정렬이 수행되는 과정 - YouTube", "https://www.youtube.com/watch?v=XaqR3G_NVoo&ab_channel=AlgoRythmics"],
+								]
+							},
+						},
 					]
 				}
 			]
