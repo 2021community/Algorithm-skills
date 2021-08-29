@@ -61,8 +61,17 @@ export const algorithmCollection = {
                             }
                         }
                     ]
-			    }
-
+			    },
+			    {
+                    name: "백트래킹",
+                    description: {
+                        text: "해를 찾는 도중 해가 아니어서 막히면, 되돌아가서 다시 해를 찾아가는 기법이다. 일종의 가지치기 기법이라고 할 수 있다.",
+                        links: [
+                            ["백트래킹 - 위키백과", "https://ko.wikipedia.org/wiki/%ED%87%B4%EA%B0%81%EA%B2%80%EC%83%89"],
+                            ["백트래킹 - 추천문제", "https://www.acmicpc.net/problem/9663"],
+                        ]
+                    }
+                }
 		    ]
 		},
 		{
