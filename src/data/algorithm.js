@@ -31,6 +31,16 @@ export const algorithmCollection = {
                             }
                         },
                         {
+                            name: "아호 코라식",
+                            description: {
+                              text: "하나의 문자열 안에서 여러 개의 부분 문자열이 존재하는지 찾아낼 때 사용하는 알고리즘이다. 즉, 일대다 문자열 패턴 매칭에 사용된다.",
+                              links: [
+                                  ["아호 코라식 - 위키백과", "https://ko.wikipedia.org/wiki/%EC%95%84%ED%98%B8_%EC%BD%94%EB%9D%BC%EC%8B%9D_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98"],
+                                  ["아호 코라식 - 추천문제", "https://www.acmicpc.net/problem/10256"],
+                              ]
+                            }
+                        },
+                        {
                             name: "트라이",
                             description: {
                                 text: "문자열을 저장하고 효율적으로 탐색하기 위한 트리 형태의 자료구조를 문자열 탐색을 nlog(n)에 가능하게 하는 알고리즘이다.",
