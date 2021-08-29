@@ -24,7 +24,17 @@ export const algorithmCollection = {
 									["버블 정렬이 수행되는 과정 - YouTube", "https://www.youtube.com/watch?v=lyZQPjUT5B4&ab_channel=AlgoRythmics"],
 								]
 							},
-						}
+						},
+						{
+							name: "선택 정렬",
+							description: {
+								text: "선택 정렬은 알고리즘이 단순하며 사용할 수 있는 메모리가 제한적인 경우에 사용시 성능 상의 이점이 있다. 하지만 버블 정렬과 마찬가지로 시간복잡도가 O(n²)로 상당히 느리다.",
+								links: [
+									["선택 정렬 - 위키백과", "https://ko.wikipedia.org/wiki/%EC%84%A0%ED%83%9D_%EC%A0%95%EB%A0%AC"],
+									["선택 정렬이 수행되는 과정 - YouTube", "https://www.youtube.com/watch?v=Ns4TPTC8whw&ab_channel=AlgoRythmics"],
+								]
+							},
+						},
 					]
 				}
 			]
