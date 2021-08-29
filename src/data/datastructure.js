@@ -143,6 +143,15 @@ export const datastructureCollection = {
 							 },
 						]
 						},
+						{
+							name: "B 트리",
+							description: {
+								text: "B 트리(B tree)는 데이터베이스와 파일 시스템에서 널리 사용되는 트리 자료구조의 일종으로, 이진 트리를 확장해 하나의 노드가 가질 수 있는 자식 노드의 최대 숫자가 2보다 큰 트리 구조이다.",
+								links: [
+									["B 트리 - 위키백과", "https://ko.wikipedia.org/wiki/B_%ED%8A%B8%EB%A6%AC"],
+								]
+							}
+						},
 					]
 				},
 		    ]
