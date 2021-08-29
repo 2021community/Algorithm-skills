@@ -71,6 +71,16 @@ export const algorithmCollection = {
                             ["백트래킹 - 추천문제", "https://www.acmicpc.net/problem/9663"],
                         ]
                     }
+                },
+                {
+                    name: "정수론",
+                    description: {
+                        text: "정수의 성질을 이용해 문제를 푸는 기법이다. 최대공약수/최소공배수, 에라토스테네스의 체 등이 있다.",
+                        links: [
+                            ["정수론 - 블로그(코팅테스트에 나오는 수학 정리)", "https://data-make.tistory.com/408"],
+                            ["정수론 - 추천문제", "https://www.acmicpc.net/problem/2960"],
+                        ]
+                    }
                 }
 		    ]
 		},
