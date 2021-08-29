@@ -112,6 +112,17 @@ export const datastructureCollection = {
 								 ["이진 트리 개념 YOUTUBE", "https://youtu.be/P8gbyzHZgfY"]
 								]
 						   },
+						   skills: [
+							{
+							   name: "AVL 트리",
+							   description: {
+								  text: "AVL 트리(Adelson-Velsky and Landis에서 따온 이름)는 스스로 균형을 잡는 이진 탐색 트리이다. ",
+								  links: [
+									 ["AVL 트리 - 위키백과", "https://ko.wikipedia.org/wiki/AVL_%ED%8A%B8%EB%A6%AC"],
+									]
+							   },
+							},
+						]
 						},
 					]
 				},
