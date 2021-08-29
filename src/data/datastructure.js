@@ -132,6 +132,15 @@ export const datastructureCollection = {
 									 ]
 								},
 							 },
+							 {
+								name: "힙",
+								description: {
+								   text: "힙(heap)은 최댓값 및 최솟값을 찾아내는 연산을 빠르게 하기 위해 고안된 완전이진트리(complete binary tree)를 기본으로 한 자료구조다. ",
+								   links: [
+									  ["힙 - 위키백과", "https://ko.wikipedia.org/wiki/%ED%9E%99_(%EC%9E%90%EB%A3%8C_%EA%B5%AC%EC%A1%B0)"],
+									 ]
+								},
+							 },
 						]
 						},
 					]
