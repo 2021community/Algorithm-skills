@@ -122,6 +122,16 @@ export const datastructureCollection = {
 									]
 							   },
 							},
+							{
+								name: "Red-Black 트리",
+								description: {
+								   text: "레드-블랙 트리(Red-black tree)는 자가 균형 이진 탐색 트리(self-balancing binary search tree)로서, 대표적으로는 연관 배열 등을 구현하는 데 쓰이는 자료구조다. ",
+								   links: [
+									  ["Red-Black 트리 - 위키백과", "https://ko.wikipedia.org/wiki/%EB%A0%88%EB%93%9C-%EB%B8%94%EB%9E%99_%ED%8A%B8%EB%A6%AC"],
+									  ["Red-Black 트리 개념 YOUTUBE" , "https://youtu.be/SHdYv41iCmE"]
+									 ]
+								},
+							 },
 						]
 						},
 					]
