@@ -81,6 +81,16 @@ export const algorithmCollection = {
                             ["정수론 - 추천문제", "https://www.acmicpc.net/problem/2960"],
                         ]
                     }
+                },
+                {
+                    name: "조합론",
+                    description: {
+                        text: "경우의 수를 따져 문제를 푸는 기법이다. 순열, 조합 등이 있다.",
+                        links: [
+                            ["조합론 - 블로그(순열, 조합, 부분집합 비교)", "https://data-make.tistory.com/493?category=347122"],
+                            ["조합론 - 추천문제", "https://www.acmicpc.net/problem/1670"],
+                        ]
+                    }
                 }
 		    ]
 		},
