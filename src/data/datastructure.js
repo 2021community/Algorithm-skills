@@ -101,7 +101,19 @@ export const datastructureCollection = {
 							["트리 - 위키백과", "https://ko.wikipedia.org/wiki/%ED%8A%B8%EB%A6%AC_%EA%B5%AC%EC%A1%B0"],
 							["트리 핵심 요약 YOUTUBE", "https://youtu.be/i5yHkP1jQmo"],
 						]
-					}
+					},
+					skills: [
+						{
+						   name: "이진 트리",
+						   description: {
+							  text: "이진 트리(binary tree)는 각각의 노드가 최대 두 개의 자식 노드를 가지는 트리 자료 구조로, 자식 노드를 각각 왼쪽 자식 노드와 오른쪽 자식 노드라고 한다. ",
+							  links: [
+								 ["이진 트리 - 위키백과", "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A7%84_%ED%8A%B8%EB%A6%AC"],
+								 ["이진 트리 개념 YOUTUBE", "https://youtu.be/P8gbyzHZgfY"]
+								]
+						   },
+						},
+					]
 				},
 		    ]
 		},
