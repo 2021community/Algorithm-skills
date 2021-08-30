@@ -6,6 +6,12 @@ export const codingtestCollection = {
 			skills: [
 
 			]
+		},
+        {
+			name: "국내",
+			skills: [
+
+			]
 		}
     ]
 }
