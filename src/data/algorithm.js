@@ -91,6 +91,16 @@ export const algorithmCollection = {
                             ["조합론 - 추천문제", "https://www.acmicpc.net/problem/1670"],
                         ]
                     }
+                },
+                {
+                    name: "기하",
+                    description: {
+                        text: "각종 기하학적 도형을 다루는 알고리즘이다.",
+                        links: [
+                            ["기하 - 블로그(기하 알고리즘)", "https://allinfom.tistory.com/53"],
+                            ["기하 - 추천문제", "https://www.acmicpc.net/problem/17386"],
+                        ]
+                    }
                 }
 		    ]
 		},
