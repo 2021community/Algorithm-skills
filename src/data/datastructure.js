@@ -184,6 +184,16 @@ export const datastructureCollection = {
 								]
 							}
 						},
+
+						{
+							name: "방향 그래프",
+							description: {
+								text: "방향 그래프(directed graph)는 방향을 가진 그래프이다.",
+								links: [
+									["방향 그래프 - 위키백과", "https://ko.wikipedia.org/wiki/%EC%9C%A0%ED%96%A5_%EA%B7%B8%EB%9E%98%ED%94%84"]
+								]
+							}
+						},
 					]
 				},
 		    ]
