@@ -110,6 +110,18 @@ export const algorithmCollection = {
                             ["최단 경로 문제 - 위키백과", "https://ko.wikipedia.org/wiki/%EC%B5%9C%EB%8B%A8_%EA%B2%BD%EB%A1%9C_%EB%AC%B8%EC%A0%9C3"],
                             ["최단 경로 - 추천문제", "https://www.acmicpc.net/problem/1753"],
                         ]
+                        skills: [
+                            {
+                                name: "벨만 포드",
+                                description: {
+                                    text: "다익스트라 알고리즘과 달리 음의 가중치를 가진 경로에서도 최단 경로를 구할 수 있다. ",
+                                    links: [
+                                        ["밸만 포드 - 위키백과", "https://ko.wikipedia.org/wiki/%EB%B2%A8%EB%A8%BC-%ED%8F%AC%EB%93%9C_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98"],
+                                        ["밸만 포드 - 추천문제", "https://www.acmicpc.net/problem/11657"],
+                                    ]
+                                }
+                            },
+                        ]
                     }
                 }
 		    ]
