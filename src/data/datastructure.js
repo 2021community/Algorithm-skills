@@ -215,17 +215,7 @@ export const datastructureCollection = {
 							["해시 - 네이버", "https://terms.naver.com/entry.naver?docId=3432002&cid=58437&categoryId=58437"]
 						]
 					},
-					skills: [
-						{
-							name: "Dictionary",
-							description: {
-								text: "Dictionary(딕셔너리)는 Key-Value 형태의 값을 저장할 수 있는 자료구조이다.",
-								links: [
-									["Dictionary - 블로그", "https://velog.io/@inyong_pang/Data-Structure-Dictionary%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC-4bk5vovnvc"]
-								]
-							}
-						},
-					]
+
 				},
 		    ]
 		},
