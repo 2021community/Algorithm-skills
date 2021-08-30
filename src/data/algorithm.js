@@ -133,6 +133,17 @@ export const algorithmCollection = {
                             }
                         }
                     ]
+                },
+                {
+                    name: "세그먼트 트리",
+                    description: {
+                        text: "특정 구간의 합을 O(n)보다 빨리 구하고 싶을 때 사용하는 알고리즘이다.",
+                        links: [
+                            ["세그먼트 트리 - velog", "https://velog.io/@jeong_eeeun/%EC%84%B8%EA%B7%B8%EB%A8%BC%ED%8A%B8-%ED%8A%B8%EB%A6%AC"],
+                            ["세그먼트 트리 - 추천문제", "https://www.acmicpc.net/problem/2042"],
+                            ["세그먼트 트리 - 유튜브(세그먼트 트리의 기초)", "https://www.youtube.com/watch?v=shOg2iWIl50&ab_channel=%EB%AC%B8%EB%8F%99%EA%B5%AD"]
+                        ]
+                    }
                 }
 		    ]
 		},
