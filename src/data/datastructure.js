@@ -246,6 +246,16 @@ export const datastructureCollection = {
 								]
 							}
 						},
+
+						{
+							name: "중위 순회",
+							description: {
+								text: "중위 순회(inorder)는 왼쪽 서브 트리, 노드, 오른쪽 서브 트리 순으로 중위 순회한다.",
+								links: [
+									["전위 순회 - 위키백과", "https://ko.wikipedia.org/wiki/%ED%8A%B8%EB%A6%AC_%EC%88%9C%ED%9A%8C"]
+								]
+							}
+						},
 					]
 				},	
 		    ]
