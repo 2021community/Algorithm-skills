@@ -194,6 +194,16 @@ export const datastructureCollection = {
 								]
 							}
 						},
+
+						{
+							name: "스패닝 트리",
+							description: {
+								text: "연결된, 비방향성 그래프 G에서 순환 경로를 제거하면서 연결된 부분 그래프가 되도록 이음선을 제거하면 스패닝 트리가 된다. 따라서 스패닝 트리는 G 안에 있는 모든 정점을 다 포함하면서 트리가 되는 연결된 부분 그래프이다.",
+								links: [
+									["스패닝 트리 - 위키백과", "https://terms.naver.com/entry.naver?docId=853021&cid=50373&categoryId=50373"]
+								]
+							}
+						},
 					]
 				},
 		    ]
