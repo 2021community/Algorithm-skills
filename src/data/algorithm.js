@@ -144,6 +144,16 @@ export const algorithmCollection = {
                             ["세그먼트 트리 - 유튜브(세그먼트 트리의 기초)", "https://www.youtube.com/watch?v=shOg2iWIl50&ab_channel=%EB%AC%B8%EB%8F%99%EA%B5%AD"]
                         ]
                     }
+                },
+                {
+                    name: "네트워크 플로우",
+                    description: {
+                        text: "특정한 지점에서 다른 지점으로 데이터가 얼마나 많이 흐르고 있는가를 측정하는 알고리즘이다.",
+                        links: [
+                            ["네트워크 플로우 - 블로그", "https://m.blog.naver.com/ndb796/221237111220"],
+                            ["네트워크 플로우 - 추천문제", "https://www.acmicpc.net/problem/6086"],
+                        ]
+                    }
                 }
 		    ]
 		},
