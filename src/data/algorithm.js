@@ -77,6 +77,16 @@ export const algorithmCollection = {
 								]
 							},
 						},
+						{
+							name: "두 포인터",
+							description: {
+								text: "두 포인터 알고리즘은 정렬된 리스트에서 처음 값 그리고 끝 값을 활용하여 O(N) 만에 원하는 값을 찾아내는 알고리즘이다.",
+								links: [
+									["두 포인터 예제 - geeksforgeeks", "https://www.geeksforgeeks.org/two-pointers-technique/"],
+									["두 포인터 추천문제 - 백준", "https://www.acmicpc.net/problemset?sort=no_asc&algo=80&algo_if=and"],
+								]
+							},
+						},
 					]
 				},
 			]
