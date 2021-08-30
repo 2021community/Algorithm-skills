@@ -224,10 +224,19 @@ export const datastructureCollection = {
 									["맵 - 위키백과", "https://ko.wikipedia.org/wiki/%ED%95%B4%EC%8B%9C_%ED%85%8C%EC%9D%B4%EB%B8%94"]
 								]
 							}
-						},
-						
+						},	
 					]
 				},
+
+				{
+					name: "트리 순회",
+					description: {
+						text: "트리 순회(Tree traversal)는 트리 구조에서 각각의 노드를 정확히 한 번만, 체계적인 방법으로 방문하는 과정을 말한다. 이는 노드를 방문하는 순서에 따라 분류된다. ",
+						links: [
+							["트리 순회 - 위키백과", "https://ko.wikipedia.org/wiki/%ED%8A%B8%EB%A6%AC_%EC%88%9C%ED%9A%8C"]
+						]
+					}
+				},	
 		    ]
 		},
 		{
