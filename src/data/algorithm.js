@@ -56,7 +56,17 @@ export const algorithmCollection = {
 							},
 						},
 					]
-				}
+				},
+				{
+					name: "검색",
+					description: {
+						text: "검색 알고리즘은 이름 그대로 검색 문제를 해결하는 어떠한 알고리즘들을 일컬어 부르는 말이다.",
+						links: [
+							["검색 알고리즘 - 위키백과", "https://ko.wikipedia.org/wiki/%EA%B2%80%EC%83%89_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98"],
+							["검색 추천문제 - 백준", "https://www.acmicpc.net/problemset?sort=no_asc&algo=12%2C80&algo_if=and"],
+						]
+					},
+				},
 			]
 		},
 		{
