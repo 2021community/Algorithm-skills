@@ -96,6 +96,16 @@ export const algorithmCollection = {
 								]
 							},
 						},
+						{
+							name: "해싱",
+							description: {
+								text: "해싱은 임의의 길이의 데이터를 고정된 길이의 데이터로 매핑하는 함수이다. 이 해싱은 매우 빠른 데이터 검색을 위한 컴퓨터 소프트웨어에 널리 사용된다.",
+								links: [
+									["해싱(해쉬 함수) - 위키백과", "https://ko.wikipedia.org/wiki/%ED%95%B4%EC%8B%9C_%ED%95%A8%EC%88%98"],
+									["해싱 추천문제 - 백준", "https://www.acmicpc.net/problemset?sort=ranking_asc&algo=8&algo_if=and"],
+								]
+							},
+						},
 					]
 				},
 			]
