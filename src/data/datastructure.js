@@ -269,12 +269,6 @@ export const datastructureCollection = {
 					]
 				},	
 		    ]
-		},
-		{
-            name: "이것만은 꼭!",
-            skills: [
-
-            ]
-        }
+		}
 	]
 } 
