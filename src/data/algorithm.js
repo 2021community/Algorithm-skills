@@ -108,6 +108,16 @@ export const algorithmCollection = {
 						},
 					]
 				},
+				{
+					name: "DP",
+					description: {
+						text: "DP는 복잡한 문제를 간단한 여러 개의 문제로 나누어 푸는 방법을 말한다.",
+						links: [
+							["DP - 위키백과", "https://ko.wikipedia.org/wiki/%EB%8F%99%EC%A0%81_%EA%B3%84%ED%9A%8D%EB%B2%95"],
+							["DP 추천문제 - 백준", "https://www.acmicpc.net/problemset?sort=ranking_asc&algo=25%2C92%2C108%2C87%2C107&algo_if=or"],
+						]
+					},
+				},
 			]
 		},
 		{
