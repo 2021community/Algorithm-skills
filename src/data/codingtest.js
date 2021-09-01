@@ -72,6 +72,15 @@ export const codingtestCollection = {
 							["코드업 바로가기", "https://codeup.kr/"],
 						]
 					}
+				},
+				{
+					name: "SW Expert Academy",
+					description: {
+						text: "알고리즘 테스트 및 프로그래밍 역량 강화를 위한 학습 컨텐츠를 제공하는 삼성에서 만든 사이트이다.",
+						links: [
+							["SW Expert Academy 바로가기", "https://swexpertacademy.com/main/main.do"],
+						]
+					}
 				}
 			]
 		}
