@@ -63,6 +63,15 @@ export const codingtestCollection = {
 							["프로그래머스 바로가기", "https://programmers.co.kr/"],
 						]
 					}
+				},
+				{
+					name: "코드업",
+					description: {
+						text: "정보과학 의 기초, 심화 및 한국정보올림피아드 대비 등의 정보과학 예제를 풀어볼 수 있는 알고리즘 트레이닝 사이트이다.",
+						links: [
+							["코드업 바로가기", "https://codeup.kr/"],
+						]
+					}
 				}
 			]
 		}
