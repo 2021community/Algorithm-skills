@@ -129,7 +129,16 @@ export const algorithmCollection = {
 		{
             name: "이것만은 꼭!",
             skills: [
-
+                {
+                    name: "순회",
+                    description: {
+                        text: "트리 구조에서 각각의 노드를 정확히 한 번만, 체계적인 방법으로 방문하는 과정을 말한다.",
+                        links: [
+                            ["순회 - 위키백과", "https://ko.wikipedia.org/wiki/%ED%8A%B8%EB%A6%AC_%EC%88%9C%ED%9A%8C"],
+                            ["순회 - 추천문제", "https://www.acmicpc.net/problem/10971"],
+                        ]
+                    },
+                }
             ]
         }
 	]
