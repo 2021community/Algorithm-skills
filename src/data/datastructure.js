@@ -83,6 +83,16 @@ export const datastructureCollection = {
 						]
 					}
 				},
+
+				{
+					name: "시간 복잡도",
+					description: {
+						text: "알고리즘의 시간복잡도는 입력을 나타내는 문자열 길이의 함수로서 작동하는 알고리즘을 취해 시간을 정량화하는 것이다.",
+						links: [
+							["시간 복잡도 - 위키백과", "https://ko.wikipedia.org/wiki/%EC%8B%9C%EA%B0%84_%EB%B3%B5%EC%9E%A1%EB%8F%84"],
+						]
+					}
+				},
 				
 			]
 
