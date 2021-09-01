@@ -30,6 +30,15 @@ export const codingtestCollection = {
 							["codechef 바로가기", "https://www.codechef.com/"],
 						]
 					}
+				},
+				{
+					name: "릿코드",
+					description: {
+						text: "기술을 향상하고 지식을 확장하며 기술 면접을 준비하는 데 도움이 되는 플랫폼이다.",
+						links: [
+							["leetcode 바로가기", "https://leetcode.com/"],
+						]
+					}
 				}
 
 			]
