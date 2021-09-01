@@ -48,7 +48,6 @@ export async function openShare ({title, text, url}) {
 		["Copy", () => copyToClipboard(url)],
 		["Facebook", () => openShareUrl(`https://www.facebook.com/sharer/sharer.php?u=${safeUrl}`)],
 		["Twitter", () => openShareUrl(`https://twitter.com/intent/tweet?&url=${safeUrl}&text=${safeText}`)],
-		["Reddit", () => openShareUrl(`https://www.reddit.com/submit?url=${safeUrl}&title=${safeText}`)],
 		["Email", () => openShareUrl(`mailto:?subject=${safeTitle}&body=${encodeURIComponent(`${text}. Find it here ${url}`)}`)],
 		["Hacker News", () => openShareUrl(`https://news.ycombinator.com/submitlink?u=${safeUrl}&t=${safeText}`)],
 		["Blogger", () => openShareUrl(`https://www.blogger.com/blog-this.g?n=${safeTitle}&b=${encodeURIComponent(`${text}. Find it <a href="${url}">here</a>.<br/><br/><img width="400" src="${img}" />`)}`)],
