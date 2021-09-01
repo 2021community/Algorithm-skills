@@ -21,6 +21,15 @@ export const codingtestCollection = {
 							["topcoder 바로가기", "https://www.topcoder.com/"],
 						]
 					}
+				},
+				{
+					name: "코드셰프",
+					description: {
+						text: "전 세계 프로그래머로 구성된 경쟁력있는 프로그래밍 커뮤니티이다.",
+						links: [
+							["codechef 바로가기", "https://www.codechef.com/"],
+						]
+					}
 				}
 
 			]
