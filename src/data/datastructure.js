@@ -91,7 +91,18 @@ export const datastructureCollection = {
 						links: [
 							["시간 복잡도 - 위키백과", "https://ko.wikipedia.org/wiki/%EC%8B%9C%EA%B0%84_%EB%B3%B5%EC%9E%A1%EB%8F%84"],
 						]
-					}
+					},
+					skills: [
+						{
+						   name: "빅오 표기법",
+						   description: {
+							  text: "f(x)=o(g(x)) : 임의의 c>0에 대해 M이 존재하여 x > M => |f(x)| ≤ cg(x)",
+							  links: [
+								 ["빅오 표기법 - 나무위키", "https://ko.wikipedia.org/wiki/%EC%A0%90%EA%B7%BC_%ED%91%9C%EA%B8%B0%EB%B2%95#%EB%8C%80%EB%AC%B8%EC%9E%90_O_%ED%91%9C%EA%B8%B0%EB%B2%95_(Big-O_notation)"],
+								]
+						   },
+						},
+					]
 				},
 				
 			]
