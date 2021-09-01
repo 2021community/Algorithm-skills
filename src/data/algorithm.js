@@ -160,6 +160,16 @@ export const algorithmCollection = {
                             },
                         }
                     ]
+                },
+                {
+                    name: "그리디",
+                    description: {
+                        text: "\"매 선택에서 지금 이 순간 당장 최적인 답을 선택하여 적합한 결과를 도출하자\" 라는 모토를 가지는 알고리즘 설계 기법이다. 따라서 종합적으로 봤을 때 최적이라는 보장은 절대 없다는 것을 명심해야 한다.",
+                        links: [
+                            ["그리디 - 위키백과", "https://ko.wikipedia.org/wiki/%ED%83%90%EC%9A%95_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98"],
+                            ["그리디 - 추천문제", "https://www.acmicpc.net/problem/2839"],
+                        ]
+                    },
                 }
             ]
         }
