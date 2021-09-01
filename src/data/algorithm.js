@@ -138,6 +138,18 @@ export const algorithmCollection = {
                             ["순회 - 추천문제", "https://www.acmicpc.net/problem/10971"],
                         ]
                     },
+                    skills: [
+                        {
+                            name: "BFS",
+                            description: {
+                                text: "시작 정점을 방문한 후 시작 정점에 인접한 모든 정점들을 우선 방문하는 방법이다.",
+                                links: [
+                                    ["BFS - 위키백과", "https://ko.wikipedia.org/wiki/%EB%84%88%EB%B9%84_%EC%9A%B0%EC%84%A0_%ED%83%90%EC%83%89"],
+                                    ["BFS - 추천문제", "https://www.acmicpc.net/problem/4963"],
+                                ]
+                            },
+                        }
+                    ]
                 }
             ]
         }
