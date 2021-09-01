@@ -49,7 +49,6 @@ export async function openShare ({title, text, url}) {
 		["Facebook", () => openShareUrl(`https://www.facebook.com/sharer/sharer.php?u=${safeUrl}`)],
 		["Twitter", () => openShareUrl(`https://twitter.com/intent/tweet?&url=${safeUrl}&text=${safeText}`)],
 		["Email", () => openShareUrl(`mailto:?subject=${safeTitle}&body=${encodeURIComponent(`${text}. Find it here ${url}`)}`)],
-		["Одноклассники", () => openShareUrl(`https://connect.ok.ru/offer?url=${safeUrl}&title=${safeTitle}&imageUrl=${safeImg}`), "ok"],
 		["Mix", () => openShareUrl(`https://mix.com/add?url=${safeUrl}`)]
 	];
 
