@@ -46,7 +46,15 @@ export const codingtestCollection = {
         {
 			name: "국내",
 			skills: [
-
+				{
+					name: "백준",
+					description: {
+						text: "백준 온라인 저지는 컴퓨터 프로그래밍 알고리즘 문제 풀이 서비스를 제공해주는 웹사이트이다.",
+						links: [
+							["백준 바로가기", "https://www.acmicpc.net/"],
+						]
+					}
+				}
 			]
 		}
     ]
