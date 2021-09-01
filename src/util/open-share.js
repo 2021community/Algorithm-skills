@@ -48,8 +48,7 @@ export async function openShare ({title, text, url}) {
 		["Copy", () => copyToClipboard(url)],
 		["Facebook", () => openShareUrl(`https://www.facebook.com/sharer/sharer.php?u=${safeUrl}`)],
 		["Twitter", () => openShareUrl(`https://twitter.com/intent/tweet?&url=${safeUrl}&text=${safeText}`)],
-		["Email", () => openShareUrl(`mailto:?subject=${safeTitle}&body=${encodeURIComponent(`${text}. Find it here ${url}`)}`)],
-		["Mix", () => openShareUrl(`https://mix.com/add?url=${safeUrl}`)]
+		["Email", () => openShareUrl(`mailto:?subject=${safeTitle}&body=${encodeURIComponent(`${text}. Find it here ${url}`)}`)]
 	];
 
 	// https://www.pinterest.dk/pin/create/button/?url=https://andreasbm.github.io/web-skills&description=A%20visual%20overview%20blah%20blah&media=https://andreasbm.github.io/web-skills/www/og-image.jpg
