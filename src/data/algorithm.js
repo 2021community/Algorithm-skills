@@ -180,7 +180,20 @@ export const algorithmCollection = {
                             ["최단 경로 - 추천문제", "https://www.acmicpc.net/problem/18352"],
                         ]
                     },
+                    skills: [
+                        {
+                            name: "BFS",
+                            description: {
+                                text: "가중치가 없는 그래프에서 최단경로를 찾는 경우에 사용하는 방법이다.",
+                                links: [
+                                    ["BFS - velog", "https://velog.io/@kasterra/%ED%95%B5%EC%8B%AC-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EA%B7%B8%EB%9E%98%ED%94%84-%EC%B5%9C%EB%8B%A8-%EA%B2%BD%EB%A1%9C-%ED%83%90%EC%83%89"],
+                                    ["BFS - 추천문제", "https://www.acmicpc.net/problem/2665"],
+                                ]
+                            },
+                        }
+                    ]
                 }
+
             ]
         }
 	]
