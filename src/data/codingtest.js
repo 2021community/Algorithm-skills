@@ -54,6 +54,15 @@ export const codingtestCollection = {
 							["백준 바로가기", "https://www.acmicpc.net/"],
 						]
 					}
+				},
+				{
+					name: "프로그래머스",
+					description: {
+						text: "코드 중심의 개발자 채용 및 코딩테스트 결과를 분석해 만든 알고리즘/자료구조 문제를 제공하는 사이트이다.",
+						links: [
+							["프로그래머스 바로가기", "https://programmers.co.kr/"],
+						]
+					}
 				}
 			]
 		}
