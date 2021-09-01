@@ -190,6 +190,16 @@ export const algorithmCollection = {
                                     ["BFS - 추천문제", "https://www.acmicpc.net/problem/2665"],
                                 ]
                             },
+                        },
+                        {
+                            name: "다익스트라",
+                            description: {
+                                text: "가중치가 있으며 음수 간선이 없는 그래프에서 최단경로를 찾는 경우에 사용하는 방법이다.",
+                                links: [
+                                    ["다익스트라 - 위키백과", "https://ko.wikipedia.org/wiki/%EB%8D%B0%EC%9D%B4%ED%81%AC%EC%8A%A4%ED%8A%B8%EB%9D%BC_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98"],
+                                    ["다익스트라 - 추천문제", "https://www.acmicpc.net/problem/1261"],
+                                ]
+                            },
                         }
                     ]
                 }
