@@ -148,6 +148,16 @@ export const algorithmCollection = {
                                     ["BFS - 추천문제", "https://www.acmicpc.net/problem/4963"],
                                 ]
                             },
+                        },
+                        {
+                            name: "DFS",
+                            description: {
+                                text: "시작점 부터 다음 분기로 넘어가기 전에 해당 분기를 완벽하게 탐색하고 넘어가는 방법이다.",
+                                links: [
+                                    ["DFS - 위키백과", "https://ko.wikipedia.org/wiki/%EA%B9%8A%EC%9D%B4_%EC%9A%B0%EC%84%A0_%ED%83%90%EC%83%89"],
+                                    ["DFS - 추천문제", "https://www.acmicpc.net/problem/2617"],
+                                ]
+                            },
                         }
                     ]
                 }
