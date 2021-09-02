@@ -73,6 +73,12 @@ C++은 초심자가 입문하긴 어렵지만, 상위권의 주력언어로 많�
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> C++ - 위키백과](https://ko.wikipedia.org/wiki/C%2B%2B)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> 표준 템플릿 라이브러리(STL) - 위키백과](https://ko.wikipedia.org/wiki/%ED%91%9C%EC%A4%80_%ED%85%9C%ED%94%8C%EB%A6%BF_%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC#%EA%B5%AC%EC%84%B1)
 
+### python
+
+파이썬은 integer overflow를 고려할 필요가 없다는 장점이 있지만, 실행시간이 느리다는 단점이 있다.
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> 파이썬 - 위키백과](https://ko.wikipedia.org/wiki/%ED%8C%8C%EC%9D%B4%EC%8D%AC)
+
 
 ## 자료구조
 
