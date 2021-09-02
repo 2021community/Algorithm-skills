@@ -222,6 +222,16 @@ export const algorithmCollection = {
                             ["이분 탐색 - 추천문제", "https://www.acmicpc.net/problem/1939"],
                         ]
                     },
+                },
+                {
+                    name: "재귀",
+                    description: {
+                        text: "하나의 함수에서 자기자신을 다시 호출하여 작업을 수행하는 것으로, 분할정복 알고리즘을 구현할 때 주로 쓰는 방법이다.",
+                        links: [
+                            ["재귀 - velog(재귀 알고리즘의 기초)", "https://velog.io/@inyong_pang/4%EA%B0%95-%EC%9E%AC%EA%B7%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98recursive-algorithms%EA%B8%B0%EC%B4%88"],
+                            ["재귀 - 추천문제", "https://www.acmicpc.net/problem/5904"],
+                        ]
+                    },
                 }
             ]
         }
