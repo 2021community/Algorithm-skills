@@ -66,6 +66,13 @@ C언어는 출력 형식이 비교적 자유로우며, 포인터, 구조체 등�
 
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> C언어 - 위키백과](https://ko.wikipedia.org/wiki/C_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4))
 
+#### C++
+
+C++은 초심자가 입문하긴 어렵지만, 상위권의 주력언어로 많이 사용되기 때문에 학습자료가 많다는 장점을 가지고 있다.
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> C++ - 위키백과](https://ko.wikipedia.org/wiki/C%2B%2B)
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> 표준 템플릿 라이브러리(STL) - 위키백과](https://ko.wikipedia.org/wiki/%ED%91%9C%EC%A4%80_%ED%85%9C%ED%94%8C%EB%A6%BF_%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC#%EA%B5%AC%EC%84%B1)
+
 
 ## 자료구조
 
