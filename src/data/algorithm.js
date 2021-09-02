@@ -232,6 +232,16 @@ export const algorithmCollection = {
                             ["재귀 - 추천문제", "https://www.acmicpc.net/problem/5904"],
                         ]
                     },
+                },
+                {
+                    name: "DP",
+                    description: {
+                        text: "어떤 문제를 풀기 위해 그 문제를 더 작은 문제의 연장선으로 생각하고, 과거에 구한 해를 활용하는 기법이다. 즉 앞에서 구한 답을 재활용하는 것이다.",
+                        links: [
+                            ["DP - 나무위키", "https://namu.wiki/w/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95"],
+                            ["DP - 추천문제", "https://www.acmicpc.net/problem/2533"],
+                        ]
+                    },
                 }
             ]
         }
