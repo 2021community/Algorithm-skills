@@ -52,7 +52,7 @@ export async function openHelp () {
 			<div tabindex="0"></div>
 			<ws-button id="close" @click="${() => $dialog.close()}" aria-label="Close dialog">✖️</ws-button>
 			
-			<h2>Web Skills FAQ</h2>
+			<h2>Algorithm Skills FAQ</h2>
 
 			<h3>What is Web Skills?</h3>
 			<p>Web Skills is a visual overview of useful skills to learn as a web developer. It is useful for people who just started learning about web development and for people who have been in the field for years and want to learn new things. As a beginner, I would encourage you not to see this website as the definitive list of what you need to know but as an example of what you can learn and where you can start. The skills are arranged in chronological order based on what learning path I recommend you to take but feel free to jump around freely.</p>
