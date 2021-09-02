@@ -202,8 +202,17 @@ export const algorithmCollection = {
                             },
                         }
                     ]
+                },
+                {
+                    name: "브루트포스",
+                    description: {
+                        text: "완전탐색이라고도 하며, 가능한 모든 경우의 수를 대입해보며 문제를 해결하는 기법이다.",
+                        links: [
+                            ["브루트포스 - 나무위키", "https://namu.wiki/w/%EB%B8%8C%EB%A3%A8%ED%8A%B8%20%ED%8F%AC%EC%8A%A4"],
+                            ["브루트포스 - 추천문제", "https://www.acmicpc.net/problem/1436"],
+                        ]
+                    },
                 }
-
             ]
         }
 	]
