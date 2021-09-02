@@ -79,6 +79,12 @@ C++은 초심자가 입문하긴 어렵지만, 상위권의 주력언어로 많�
 
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> 파이썬 - 위키백과](https://ko.wikipedia.org/wiki/%ED%8C%8C%EC%9D%B4%EC%8D%AC)
 
+### java
+
+자바는 개발쪽에선 범용성이 최강이다. 하지만 코딩 테스트에선 실행시간이 c++보다 느리며, 문법이 어렵다는 단점을 가지고 있다.
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> 자바 - 위키백과](https://ko.wikipedia.org/wiki/%EC%9E%90%EB%B0%94_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4))
+
 
 ## 자료구조
 
