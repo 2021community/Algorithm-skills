@@ -212,6 +212,16 @@ export const algorithmCollection = {
                             ["브루트포스 - 추천문제", "https://www.acmicpc.net/problem/1436"],
                         ]
                     },
+                },
+                {
+                    name: "이분 탐색",
+                    description: {
+                        text: "정렬되어 있는 데이터에서 탐색 범위를 절반씩 좁혀가며 찾아가는 탐색 방법이다.",
+                        links: [
+                            ["이분 탐색 - velog", "https://velog.io/@kimdukbae/%EC%9D%B4%EB%B6%84-%ED%83%90%EC%83%89-%EC%9D%B4%EC%A7%84-%ED%83%90%EC%83%89-Binary-Search"],
+                            ["이분 탐색 - 추천문제", "https://www.acmicpc.net/problem/1939"],
+                        ]
+                    },
                 }
             ]
         }
