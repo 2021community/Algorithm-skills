@@ -57,8 +57,31 @@ export async function openHelp () {
 			<h3>What is Web Skills?</h3>
 			<p>Web Skills is a visual overview of useful skills to learn as a web developer. It is useful for people who just started learning about web development and for people who have been in the field for years and want to learn new things. As a beginner, I would encourage you not to see this website as the definitive list of what you need to know but as an example of what you can learn and where you can start. The skills are arranged in chronological order based on what learning path I recommend you to take but feel free to jump around freely.</p>
 
-			<h3>How did you choose the skills?</h3>
-			<p>The skills are derived from a combination of 10 years of experience, a bachelor in software engineering and what I personally find to be the most useful to know on a day-to-day basis. Therefore, you'll notice that it's missing a lot of things. For example, I am not a PHP developer - because of this, PHP is not included. If you were a PHP developer, this overview would probably look a lot different.</p>
+			<h3>알고리즘은 어떤 순서로 배우는 게 좋나요?</h3>
+			
+			<p>
+			&nbsp&nbsp01. STL 1: 기초 자료구조 (큐, 스택, 힙, 벡터, 데큐, 맵, 셋 ...) <br>
+			&nbsp&nbsp02. STL 2: 기초 알고리즘 (이분 탐색, 정렬, ...) <br>
+			&nbsp&nbsp03. 그래프 1: BFS, DFS <br>
+			&nbsp&nbsp04. 전수탐색과 재귀호출 <br>
+			&nbsp&nbsp05. Greedy 기초 <br>
+			&nbsp&nbsp06. Dijkstra, Floyd, 벨만-포드 <br>
+			&nbsp&nbsp07. DP 1 <br>
+			&nbsp&nbsp08. 문자열 기초 (KMP, Manacher) <br>
+			&nbsp&nbsp09. 수학 1: 정수론 기초 <br>
+			&nbsp&nbsp10. DP 2: 다차원, 메모이제이션, 분할정복 <br>
+			&nbsp&nbsp11. 기하 기초 <br>
+			&nbsp&nbsp12. 그래프 2: SCC, 2-SAT <br>
+			&nbsp&nbsp13. DP 3: 비트마스크, 기댓값 <br>
+			&nbsp&nbsp14. Network Flow, 이분 매칭 <br>
+			&nbsp&nbsp15. Segment Tree와 BIT (+ 2D BIT) <br>
+			&nbsp&nbsp16. 문자열 응용 (아호 코라식, Suffix Array) <br>
+			&nbsp&nbsp17. MCMF <br>
+			&nbsp&nbsp18. DP 4: Knuth, CHT, D&C / 아호코라식 DP / 메모리 사용량 줄이기 등 비정형 문제 <br>
+			&nbsp&nbsp19. Segment Tree 2: Lazy 이용, Persistent Segment Tree, 2D Segment Tree, Quad Tree<br>
+			&nbsp&nbsp20. 수학 2: FFT<br>
+			&nbsp&nbsp21. BBST (Splay tree) 응용, Link-cut tree, ...
+			</p>
 
 			<h3>How can I support you?</h3>
 			<p>I am spending my spare time building Web Skills for free because I want to help people get into web development. My motivation comes from people finding Web Skills useful, so if you like the project feel free to support me in any way you like! For example, you are more than welcome to become a <a target="_blank" href="https://github.com/andreasbm/web-skills" rel="noopener" aria-label="Open become stargazer on Github">stargazer on Github</a>, share Web Skills with your friends and followers or create blog articles linking to Web Skills. If you want to, it will absolutely make my day if you <a href="https://www.buymeacoffee.com/AndreasMehlsen" target="_blank" aria-label="Buy coffee">support me with a cup of coffee</a>!</p>
