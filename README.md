@@ -84,7 +84,11 @@ Reach out to me on Twitter at [@AndreasMehlsen](https://twitter.com/AndreasMehls
 
 ## ➤ 프로그래밍 언어
 
-<!-- ⚠️ 프로그래밍 언어 - 소분류 추가 예정 ⚠️-->
+### C, C++
+
+C와 C++은 문법이 서로 비슷하기 때문에 C언어를 배운 사람은 C++도 자연스럽게 입문할 수 있다.
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://chanhuiseok.github.io/" alt="Logo" /> C언어와 C++의 문법 차이 - 블로그](https://chanhuiseok.github.io/posts/algo-2/)
 
 
 
