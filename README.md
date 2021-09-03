@@ -190,6 +190,13 @@ f(x)=Ω(g(x)) : M,c>0이 존재하여 x > M => |f(x)| > cg(x) 이다.
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> 이진 트리 - 위키백과](https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A7%84_%ED%8A%B8%EB%A6%AC)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.youtube.com" alt="Logo" /> 이진 트리 개념 YOUTUBE](https://youtu.be/P8gbyzHZgfY)
 
+#### AVL 트리
+
+AVL 트리(Adelson-Velsky and Landis에서 따온 이름)는 스스로 균형을 잡는 이진 탐색 트리이다.
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> AVL 트리 - 위키백과](https://ko.wikipedia.org/wiki/AVL_%ED%8A%B8%EB%A6%AC)
+
+
 
 
 
