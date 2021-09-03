@@ -231,6 +231,13 @@ A집단이 B집단을 선택할 때 최고 효율적으로 선택할 수 있게 
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> DFS - 위키백과](https://ko.wikipedia.org/wiki/%EA%B9%8A%EC%9D%B4_%EC%9A%B0%EC%84%A0_%ED%83%90%EC%83%89)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.acmicpc.net" alt="Logo" /> DFS - 추천문제](https://www.acmicpc.net/problem/2617)
 
+### 그리디
+
+"매 선택에서 지금 이 순간 당장 최적인 답을 선택하여 적합한 결과를 도출하자" 라는 모토를 가지는 알고리즘 설계 기법이다. 따라서 종합적으로 봤을 때 최적이라는 보장은 절대 없다는 것을 명심해야 한다.
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> 그리디 - 위키백과](https://ko.wikipedia.org/wiki/%ED%83%90%EC%9A%95_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.acmicpc.net" alt="Logo" /> 그리디 - 추천문제](https://www.acmicpc.net/problem/2839)
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#코딩-테스트)
 
 ## ➤ 코딩 테스트
