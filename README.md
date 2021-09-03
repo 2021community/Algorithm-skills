@@ -199,6 +199,14 @@ C++은 초심자가 입문하긴 어렵지만, 상위권의 주력언어로 많�
 
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> 선형 검색 알고리즘 - 위키백과](https://ko.wikipedia.org/wiki/%EC%88%9C%EC%B0%A8_%EA%B2%80%EC%83%89_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
+#### 이진 검색
+
+이진 검색 알고리즘은 오름차순으로 정렬된 리스트에서 특정한 값의 위치를 찾는 알고리즘이다.
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> 이진 검색 알고리즘 - 위키백과](https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A7%84_%EA%B2%80%EC%83%89_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+
+* [ ] [<img style="margin-bottom: 0;" src="https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.acmicpc.net" alt="Logo" /> 이진 검색 추천문제 - 백준](https://www.acmicpc.net/problemset?sort=no_asc&algo=12&algo_if=and)
+
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#코딩-테스트)
