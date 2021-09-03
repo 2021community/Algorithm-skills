@@ -161,6 +161,14 @@ C++은 초심자가 입문하긴 어렵지만, 상위권의 주력언어로 많�
 
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.youtube.com/" alt="Logo" /> 버블 정렬이 수행되는 과정 - YouTube](https://www.youtube.com/watch?v=lyZQPjUT5B4&ab_channel=AlgoRythmics)
 
+#### 선택 정렬
+
+선택 정렬은 알고리즘이 단순하며 사용할 수 있는 메모리가 제한적인 경우에 사용시 성능 상의 이점이 있다. 하지만 버블 정렬과 마찬가지로 시간복잡도가 O(n²)로 상당히 느리다.
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> 선택 정렬 - 위키백과](https://ko.wikipedia.org/wiki/%EC%84%A0%ED%83%9D_%EC%A0%95%EB%A0%AC)
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.youtube.com/" alt="Logo" /> 선택 정렬이 수행되는 과정 - YouTube](https://www.youtube.com/watch?v=Ns4TPTC8whw&ab_channel=AlgoRythmics)
+
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#코딩-테스트)
