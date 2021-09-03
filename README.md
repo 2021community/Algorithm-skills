@@ -43,9 +43,15 @@
 
 ## ➤ FAQ
 
-### What is Web Skills?
+### 알고리즘 학습을 위한 책 추천
 
-Web Skills is a visual overview of useful skills to learn as a web developer. It is useful for people who just started learning about web development and for people who have been in the field for years and want to learn new things. As a beginner, I would encourage you not to see this website as the definitive list of what you need to know but as an example of what you can learn and where you can start. The skills are arranged in chronological order based on what learning path I recommend you to take but feel free to jump around freely.
+ICPC 같은 대회를 생각하는 분에게는 '종만북'(알고리즘 문제 해결 전략) 을 보는 것이 좋지만,  
+코딩 테스트를 통과하기 위한 학습책으로는 '종만북'보다는 다른 책들을 추천한다.
+
+#### 추천 책 목록
+
+파이썬 알고리즘 인터뷰 - 박상길  
+이것이 코딩 테스트다 - 나동빈
 
 ### How did you choose the skills?
 		
