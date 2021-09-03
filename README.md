@@ -144,6 +144,13 @@ Reach out to me on Twitter at [@AndreasMehlsen](https://twitter.com/AndreasMehls
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> 백트래킹 - 위키백과](https://ko.wikipedia.org/wiki/%ED%87%B4%EA%B0%81%EA%B2%80%EC%83%89)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.acmicpc.net" alt="Logo" /> 백트래킹 - 추천문제](https://www.acmicpc.net/problem/9663)
 
+### 정수론
+
+정수의 성질을 이용해 문제를 푸는 기법이다. 최대공약수/최소공배수, 에라토스테네스의 체 등이 있다.
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.tistory.com/" alt="Logo" /> 정수론 - 블로그](https://data-make.tistory.com/408)
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.acmicpc.net" alt="Logo" /> 정수론 - 추천문제](https://www.acmicpc.net/problem/2960)
+
 ## 이것만은 꼭!
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#코딩-테스트)
