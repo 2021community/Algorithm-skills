@@ -109,12 +109,19 @@ Reach out to me on Twitter at [@AndreasMehlsen](https://twitter.com/AndreasMehls
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://namu.wiki" alt="Logo" /> 문자열 - 나무위키](https://namu.wiki/w/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.acmicpc.net" alt="Logo" /> 문자열 - 추천문제](https://www.acmicpc.net/problem/1152)
 
-### KMP
+#### KMP
 
 특정 문자열에서 부분 문자열을 찾을 때 쓰는 알고리즘이다.
 
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://velog.io" alt="Logo" /> KMP - velog](https://velog.io/@junhok82/KMP)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.acmicpc.net" alt="Logo" /> KMP - 추천문제](https://www.acmicpc.net/problem/1786)
+
+#### 아호 코라식
+
+하나의 문자열 안에서 여러 개의 부분 문자열이 존재하는지 찾아낼 때 사용하는 알고리즘이다. 즉, 일대다 문자열 패턴 매칭에 사용된다.
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> 아호 코라식 - 위키백과](https://ko.wikipedia.org/wiki/%EC%95%84%ED%98%B8_%EC%BD%94%EB%9D%BC%EC%8B%9D_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%9)
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.acmicpc.net" alt="Logo" /> 아호 코라식 - 추천문제](https://www.acmicpc.net/problem/10256)
 
 ## 이것만은 꼭!
 
