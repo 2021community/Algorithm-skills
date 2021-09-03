@@ -53,9 +53,29 @@ ICPC 같은 대회를 생각하는 분에게는 '종만북'(알고리즘 문제 
 파이썬 알고리즘 인터뷰 - 박상길  
 이것이 코딩 테스트다 - 나동빈
 
-### How did you choose the skills?
-		
-The skills are derived from a combination of 10 years of experience, a bachelor in software engineering and what I personally find to be the most useful to know on a day-to-day basis. Therefore, you'll notice that it's missing a lot of things. For example, I am not a PHP developer - because of this, PHP is not included. If you were a PHP developer, this overview would probably look a lot different.
+### 알고리즘은 어떤 순서로 배우는 게 좋나요? 
+			
+01. STL 1: 기초 자료구조 (큐, 스택, 힙, 벡터, 데큐, 맵, 셋 ...) 
+02. STL 2: 기초 알고리즘 (이분 탐색, 정렬, ...) 
+03. 그래프 1: BFS, DFS 
+04. 전수탐색과 재귀호출 
+05. Greedy 기초 
+06. Dijkstra, Floyd, 벨만-포드 
+07. DP 1 
+08. 문자열 기초 (KMP, Manacher) 
+09. 수학 1: 정수론 기초 
+10. DP 2: 다차원, 메모이제이션, 분할정복 
+11. 기하 기초 
+12. 그래프 2: SCC, 2-SAT 
+13. DP 3: 비트마스크, 기댓값 
+14. Network Flow, 이분 매칭 
+15. Segment Tree와 BIT (+ 2D BIT) 
+16. 문자열 응용 (아호 코라식, Suffix Array) 
+17. MCMF 
+18. DP 4: Knuth, CHT, D&C / 아호코라식 DP / 메모리 사용량 줄이기 등 비정형 문제 
+19. Segment Tree 2: Lazy 이용, Persistent Segment Tree, 2D Segment Tree, Quad Tree
+20. 수학 2: FFT
+21. BBST (Splay tree) 응용, Link-cut tree, ...
 
 ### How can I support you?
 
