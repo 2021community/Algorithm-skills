@@ -301,10 +301,3 @@ B 트리(B tree)는 데이터베이스와 파일 시스템에서 널리 사용�
 |:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
 | [이예진](https://github.com/yeahhhhj) | [윤상은](https://github.com/Zzangeun) |  [김지혜](https://github.com/JihyeKim0923) | [최문형](https://github.com/alirz-pixel) | 
 | 2018038008  |   2018038021 | 2018038034 |2020039004 |
-
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#license)
-
-## ➤ License
-	
-Licensed under [MIT](https://opensource.org/licenses/MIT).
