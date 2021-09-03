@@ -185,6 +185,14 @@ C++은 초심자가 입문하긴 어렵지만, 상위권의 주력언어로 많�
 
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.youtube.com/" alt="Logo" /> 퀵 정렬이 수행되는 과정 - YouTube](https://www.youtube.com/watch?v=ywWBy6J5gz8&ab_channel=AlgoRythmics)
 
+### 검색
+
+검색 알고리즘은 이름 그대로 검색 문제를 해결하는 어떠한 알고리즘들을 일컬어 부르는 말이다.
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> 검색 알고리즘 - 위키백과](https://ko.wikipedia.org/wiki/%EA%B2%80%EC%83%89_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+
+* [ ] [<img style="margin-bottom: 0;" src="https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.acmicpc.net" alt="Logo" /> 검색 추천문제 - 백준](https://www.acmicpc.net/problemset?sort=no_asc&algo=12%2C80&algo_if=and)
+
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#코딩-테스트)
