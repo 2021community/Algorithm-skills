@@ -148,6 +148,12 @@ Topcoder 커뮤니티의 경쟁 프로그래밍 트랙은 단일 라운드 매�
 
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://programmers.co.kr/" alt="Logo" />프로그래머스](https://programmers.co.kr/)
 
+### 코드업
+
+정보과학 의 기초, 심화 및 한국정보올림피아드 대비 등의 정보과학 예제를 풀어볼 수 있는 알고리즘 트레이닝 사이트이다.
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://codeup.kr/" alt="Logo" />코드업](https://codeup.kr/)
+
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#contributors)
 
