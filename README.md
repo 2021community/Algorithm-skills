@@ -224,6 +224,13 @@ A집단이 B집단을 선택할 때 최고 효율적으로 선택할 수 있게 
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> BFS - 위키백과](https://ko.wikipedia.org/wiki/%EB%84%88%EB%B9%84_%EC%9A%B0%EC%84%A0_%ED%83%90%EC%83%89)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.acmicpc.net" alt="Logo" /> BFS - 추천문제](https://www.acmicpc.net/problem/4963)
 
+#### DFS
+
+시작점 부터 다음 분기로 넘어가기 전에 해당 분기를 완벽하게 탐색하고 넘어가는 방법이다.
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> DFS - 위키백과](https://ko.wikipedia.org/wiki/%EA%B9%8A%EC%9D%B4_%EC%9A%B0%EC%84%A0_%ED%83%90%EC%83%89)
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.acmicpc.net" alt="Logo" /> DFS - 추천문제](https://www.acmicpc.net/problem/2617)
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#코딩-테스트)
 
 ## ➤ 코딩 테스트
