@@ -233,6 +233,12 @@ B 트리(B tree)는 데이터베이스와 파일 시스템에서 널리 사용�
 
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> 방향 그래프 - 위키백과](https://ko.wikipedia.org/wiki/%EC%9C%A0%ED%96%A5_%EA%B7%B8%EB%9E%98%ED%94%84)
 
+#### 스패닝 트리
+
+연결된, 비방향성 그래프 G에서 순환 경로를 제거하면서 연결된 부분 그래프가 되도록 이음선을 제거하면 스패닝 트리가 된다. 따라서 스패닝 트리는 G 안에 있는 모든 정점을 다 포함하면서 트리가 되는 연결된 부분 그래프이다.
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://terms.naver.com" alt="Logo" /> 스패닝 트리 - 네이버](https://terms.naver.com/entry.naver?docId=853021&cid=50373&categoryId=50373)
+
 
 
 
