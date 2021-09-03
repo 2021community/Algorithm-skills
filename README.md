@@ -297,10 +297,10 @@ B 트리(B tree)는 데이터베이스와 파일 시스템에서 널리 사용�
 ## ➤ Contributors
 	
 
-| [<img alt="Andreas Mehlsen" src="https://avatars1.githubusercontent.com/u/6267397?s=460&v=4" width="100">](https://twitter.com/andreasmehlsen) | [<img alt="You?" src="https://joeschmoe.io/api/v1/random" width="100">](https://github.com/andreasbm/readme/blob/master/CONTRIBUTING.md) |
-|:--------------------------------------------------:|:--------------------------------------------------:|
-| [Andreas Mehlsen](https://twitter.com/andreasmehlsen) | [You?](https://github.com/andreasbm/readme/blob/master/CONTRIBUTING.md) |
-| 🔥                                               |                                                  |
+| [<img alt="이예진" src="https://avatars.githubusercontent.com/u/50025713?v=4" width="100">](https://github.com/yeahhhhj) | [<img alt="윤상은" src="https://avatars.githubusercontent.com/u/48914904?v=4" width="100">](https://github.com/Zzangeun) |[<img alt="김지혜" src="https://avatars.githubusercontent.com/u/48914876?v=4" width="100">](https://github.com/JihyeKim0923) | [<img alt="최문형" src="https://avatars.githubusercontent.com/u/74577714?v=4" width="100">](https://github.com/alirz-pixel) |
+|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
+| [이예진](https://github.com/yeahhhhj) | [윤상은](https://github.com/Zzangeun) |  [김지혜](https://github.com/JihyeKim0923) | [최문형](https://github.com/alirz-pixel) | 
+| 2018038008  |   2018038021 | 2018038034 |2020039004 |
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#license)
