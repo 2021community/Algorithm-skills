@@ -259,6 +259,13 @@ A집단이 B집단을 선택할 때 최고 효율적으로 선택할 수 있게 
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> 다익스트라 - 위키백과](https://ko.wikipedia.org/wiki/%EB%8D%B0%EC%9D%B4%ED%81%AC%EC%8A%A4%ED%8A%B8%EB%9D%BC_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.acmicpc.net" alt="Logo" /> 다익스트라 - 추천문제](https://www.acmicpc.net/problem/1261)
 
+### 브루트포스
+
+완전탐색이라고도 하며, 가능한 모든 경우의 수를 대입해보며 문제를 해결하는 기법이다.
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://namu.wiki" alt="Logo" /> 브루트포스 - 나무위키](https://namu.wiki/w/%EB%B8%8C%EB%A3%A8%ED%8A%B8%20%ED%8F%AC%EC%8A%A4)
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.acmicpc.net" alt="Logo" /> 브루트포스 - 추천문제](https://www.acmicpc.net/problem/1436)
+
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#코딩-테스트)
 
