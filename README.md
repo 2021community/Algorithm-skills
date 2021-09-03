@@ -207,6 +207,14 @@ C++은 초심자가 입문하긴 어렵지만, 상위권의 주력언어로 많�
 
 * [ ] [<img style="margin-bottom: 0;" src="https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.acmicpc.net" alt="Logo" /> 이진 검색 추천문제 - 백준](https://www.acmicpc.net/problemset?sort=no_asc&algo=12&algo_if=and)
 
+#### 두 포인터
+
+두 포인터 알고리즘은 정렬된 리스트에서 처음 값 그리고 끝 값을 활용하여 O(N) 만에 원하는 값을 찾아내는 알고리즘이다.
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.geeksforgeeks.org/two-pointers-technique/" alt="Logo" /> 두 포인터 예제 - geeksforgeeks](https://www.geeksforgeeks.org/two-pointers-technique/)
+
+* [ ] [<img style="margin-bottom: 0;" src="https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.acmicpc.net" alt="Logo" /> 두 포인터 추천문제 - 백준](https://www.acmicpc.net/problemset?sort=no_asc&algo=80&algo_if=and)
+
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#코딩-테스트)
