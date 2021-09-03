@@ -170,6 +170,13 @@ f(x)=Ω(g(x)) : M,c>0이 존재하여 x > M => |f(x)| > cg(x) 이다.
 
 ## 심화
 
+### 트리
+
+트리 구조(tree)란 그래프의 일종으로, 여러 노드가 한 노드를 가리킬 수 없는 구조이다. 간단하게는 회로가 없고, 서로 다른 두 노드를 잇는 길이 하나뿐인 그래프를 트리라고 부른다.
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> 트리 - 위키백과](https://ko.wikipedia.org/wiki/%ED%8A%B8%EB%A6%AC_%EA%B5%AC%EC%A1%B0)
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.youtube.com" alt="Logo" /> 트리 핵심 요약 YOUTUBE](https://youtu.be/i5yHkP1jQmo)
+
 
 
 
