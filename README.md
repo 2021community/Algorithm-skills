@@ -263,6 +263,13 @@ B 트리(B tree)는 데이터베이스와 파일 시스템에서 널리 사용�
 
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> 전위 순회 - 위키백과](https://ko.wikipedia.org/wiki/%ED%8A%B8%EB%A6%AC_%EC%88%9C%ED%9A%8C)
 
+#### 중위 순회
+
+중위 순회(inorder)는 왼쪽 서브 트리, 노드, 오른쪽 서브 트리 순으로 중위 순회한다.
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> 중위 순회 - 위키백과](https://ko.wikipedia.org/wiki/%ED%8A%B8%EB%A6%AC_%EC%88%9C%ED%9A%8C)
+
+
 
 
 
