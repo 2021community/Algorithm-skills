@@ -177,6 +177,12 @@ f(x)=Ω(g(x)) : M,c>0이 존재하여 x > M => |f(x)| > cg(x) 이다.
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> 트리 - 위키백과](https://ko.wikipedia.org/wiki/%ED%8A%B8%EB%A6%AC_%EA%B5%AC%EC%A1%B0)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.youtube.com" alt="Logo" /> 트리 핵심 요약 YOUTUBE](https://youtu.be/i5yHkP1jQmo)
 
+#### 트라이
+
+트라이(trie)는 컴퓨터 과학에서 탐색 트리의 일종이다. 동적 집합이나 연관 배열을 저장하는 데 사용되는 트리 자료 구조이다.
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> 트라이 - 위키백과](https://ko.wikipedia.org/wiki/%ED%8A%B8%EB%9D%BC%EC%9D%B4_(%EC%BB%B4%ED%93%A8%ED%8C%85))
+
 
 
 
