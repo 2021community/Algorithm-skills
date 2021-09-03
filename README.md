@@ -94,6 +94,13 @@ Reach out to me on Twitter at [@AndreasMehlsen](https://twitter.com/AndreasMehls
 
 ## 기초
 
+### 배열
+
+배열은 번호(인덱스)와 번호에 대응하는 데이터들로 이루어진 자료 구조를 나타낸다.
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> 배열 - 위키백과](https://ko.wikipedia.org/wiki/%EB%B0%B0%EC%97%B4)
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.youtube.com" alt="Logo" /> 배열 기초 YOUTUBE](https://youtu.be/NFETSCJON2M)
+
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#알고리즘)
