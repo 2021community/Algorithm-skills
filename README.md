@@ -150,6 +150,13 @@ Reach out to me on Twitter at [@AndreasMehlsen](https://twitter.com/AndreasMehls
 
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> 시간 복잡도 - 위키백과](https://ko.wikipedia.org/wiki/%EC%8B%9C%EA%B0%84_%EB%B3%B5%EC%9E%A1%EB%8F%84)
 
+#### 빅오 표기법
+
+f(x)=o(g(x)) : 임의의 c>0에 대해 M이 존재하여 x > M => |f(x)| ≤ cg(x) 이다.
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://namu.wiki" alt="Logo" /> 빅오 표기법 - 나무위키](https://namu.wiki/w/%EC%A0%90%EA%B7%BC%20%ED%91%9C%EA%B8%B0%EB%B2%95)
+
+
 
 
 
