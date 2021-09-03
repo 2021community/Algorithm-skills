@@ -177,6 +177,14 @@ C++은 초심자가 입문하긴 어렵지만, 상위권의 주력언어로 많�
 
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.youtube.com/" alt="Logo" /> 병합 정렬이 수행되는 과정 - YouTube](https://www.youtube.com/watch?v=XaqR3G_NVoo&ab_channel=AlgoRythmics)
 
+#### 퀵 정렬
+
+퀵 정렬은 n개의 데이터를 정렬할 때, 최악의 경우에는 O(n²)번의 비교를 수행하고, 평균적으로 O(n log n)번의 비교를 수행한다.
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> 퀵 정렬 - 위키백과](https://ko.wikipedia.org/wiki/%ED%80%B5_%EC%A0%95%EB%A0%AC)
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.youtube.com/" alt="Logo" /> 퀵 정렬이 수행되는 과정 - YouTube](https://www.youtube.com/watch?v=ywWBy6J5gz8&ab_channel=AlgoRythmics)
+
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#코딩-테스트)
