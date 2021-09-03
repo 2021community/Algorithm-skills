@@ -280,6 +280,12 @@ A집단이 B집단을 선택할 때 최고 효율적으로 선택할 수 있게 
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://velog.io" alt="Logo" /> 재귀 - velog](https://velog.io/@inyong_pang/4%EA%B0%95-%EC%9E%AC%EA%B7%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98recursive-algorithms%EA%B8%B0%EC%B4%88)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.acmicpc.net" alt="Logo" /> 재귀 - 추천문제](https://www.acmicpc.net/problem/5904)
 
+### DP
+
+어떤 문제를 풀기 위해 그 문제를 더 작은 문제의 연장선으로 생각하고, 과거에 구한 해를 활용하는 기법이다. 즉 앞에서 구한 답을 재활용하는 것이다.
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://namu.wiki" alt="Logo" /> DP - 나무위키](https://namu.wiki/w/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95)
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.acmicpc.net" alt="Logo" /> DP - 추천문제](https://www.acmicpc.net/problem/2533)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#코딩-테스트)
 
