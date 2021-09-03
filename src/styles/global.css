@@ -5,7 +5,7 @@
 html {
 	--base-size: 16;
 
-	--background: rgb(11, 11, 25);
+	--background: url(./background.png);
 	--foreground: rgb(232, 232, 234);
 
 	--background-opaque: rgba(11, 11, 25, 0.9);
