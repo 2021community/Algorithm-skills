@@ -245,6 +245,13 @@ B 트리(B tree)는 데이터베이스와 파일 시스템에서 널리 사용�
 
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://terms.naver.com" alt="Logo" /> 해시 - 네이버](https://terms.naver.com/entry.naver?docId=3432002&cid=58437&categoryId=58437)
 
+#### 맵
+
+해시 맵(hash map)은 컴퓨팅에서 키를 값에 매핑할 수 있는 구조인, 연관 배열 추가에 사용되는 자료 구조이다.
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> 맵 - 위키백과](https://ko.wikipedia.org/wiki/%ED%95%B4%EC%8B%9C_%ED%85%8C%EC%9D%B4%EB%B8%94)
+
+
 
 
 
