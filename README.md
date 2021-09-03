@@ -533,10 +533,3 @@ Topcoder 커뮤니티의 경쟁 프로그래밍 트랙은 단일 라운드 매�
 |:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
 | [이예진](https://github.com/yeahhhhj) | [윤상은](https://github.com/Zzangeun) |  [김지혜](https://github.com/JihyeKim0923) | [최문형](https://github.com/alirz-pixel) | 
 | 2018038008  |   2018038021 | 2018038034 |2020039004 |
-
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#license)
-
-## ➤ License
-	
-Licensed under [MIT](https://opensource.org/licenses/MIT).
