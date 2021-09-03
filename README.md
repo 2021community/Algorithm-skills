@@ -137,6 +137,13 @@ Reach out to me on Twitter at [@AndreasMehlsen](https://twitter.com/AndreasMehls
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.tistory.com/" alt="Logo" /> 매니커 - 블로그](https://00ad-8e71-00ff-055d.tistory.com/91)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.acmicpc.net" alt="Logo" /> 매니커 - 추천문제](https://www.acmicpc.net/problem/13275)
 
+### 백트래킹
+
+해를 찾는 도중 해가 아니어서 막히면, 되돌아가서 다시 해를 찾아가는 기법이다. 일종의 가지치기 기법이라고 할 수 있다.
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> 백트래킹 - 위키백과](https://ko.wikipedia.org/wiki/%ED%87%B4%EA%B0%81%EA%B2%80%EC%83%89)
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.acmicpc.net" alt="Logo" /> 백트래킹 - 추천문제](https://www.acmicpc.net/problem/9663)
+
 ## 이것만은 꼭!
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#코딩-테스트)
