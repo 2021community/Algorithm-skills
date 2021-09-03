@@ -239,6 +239,11 @@ B 트리(B tree)는 데이터베이스와 파일 시스템에서 널리 사용�
 
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://terms.naver.com" alt="Logo" /> 스패닝 트리 - 네이버](https://terms.naver.com/entry.naver?docId=853021&cid=50373&categoryId=50373)
 
+### 해시
+
+해시(Hash)는 하나의 문자열을, 이를 상징하는 더 짧은 길이의 값이나 키로 변환하는 것이다.
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://terms.naver.com" alt="Logo" /> 해시 - 네이버](https://terms.naver.com/entry.naver?docId=3432002&cid=58437&categoryId=58437)
 
 
 
