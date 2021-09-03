@@ -162,6 +162,12 @@ f(x)=Θ(g(x)) : f(x)>0 중에서 f(x) = O(g(x))이며 f(x) = Ω(g(x)) 이다.
 
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://namu.wiki" alt="Logo" /> 빅세타 표기법 - 나무위키](https://namu.wiki/w/%EC%A0%90%EA%B7%BC%20%ED%91%9C%EA%B8%B0%EB%B2%95)
 
+#### 빅오메가 표기법
+
+f(x)=Ω(g(x)) : M,c>0이 존재하여 x > M => |f(x)| > cg(x) 이다.
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://namu.wiki" alt="Logo" /> 빅오메가 표기법 - 나무위키](https://namu.wiki/w/%EC%A0%90%EA%B7%BC%20%ED%91%9C%EA%B8%B0%EB%B2%95)
+
 
 
 
