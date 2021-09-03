@@ -143,6 +143,16 @@ C++은 초심자가 입문하긴 어렵지만, 상위권의 주력언어로 많�
 
 ## 기초
 
+### 정렬
+
+'컴퓨터 과학'과 '수학'에서 정렬 알고리즘이란 원소들을 번호순이나 사전 순서와 같이 일정한 순서대로 열거하는 알고리즘이다.
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> 정렬 알고리즘 - 위키백과](https://ko.wikipedia.org/wiki/%EC%A0%95%EB%A0%AC_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.youtube.com/" alt="Logo" /> 정렬 예시(15개) - YouTube](https://youtu.be/kPRA0W1kECg)
+
+* [ ] [<img style="margin-bottom: 0;" src="https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.acmicpc.net" alt="Logo" /> 정렬 추천문제 - 백준](https://www.acmicpc.net/step/9)
+
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#코딩-테스트)
