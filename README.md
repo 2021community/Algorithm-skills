@@ -92,7 +92,7 @@ Reach out to me on Twitter at [@AndreasMehlsen](https://twitter.com/AndreasMehls
 
 ## ➤ 자료구조
 
-<!-- ⚠️ 자료구조 - 소분류 추가 예정 ⚠️-->
+## 기초
 
 
 
