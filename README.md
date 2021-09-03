@@ -169,6 +169,14 @@ C++은 초심자가 입문하긴 어렵지만, 상위권의 주력언어로 많�
 
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.youtube.com/" alt="Logo" /> 선택 정렬이 수행되는 과정 - YouTube](https://www.youtube.com/watch?v=Ns4TPTC8whw&ab_channel=AlgoRythmics)
 
+#### 병합 정렬
+
+병합 정렬은 시간복잡도가 O(n log n)인 비교 기반 정렬 알고리즘이다. 일반적인 방법으로 구현했을 때 이 정렬은 안정(stable) 정렬에 속하며, 분할 정복 알고리즘의 하나이다.
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> 병합 정렬 - 위키백과](https://ko.wikipedia.org/wiki/%ED%95%A9%EB%B3%91_%EC%A0%95%EB%A0%AC)
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.youtube.com/" alt="Logo" /> 병합 정렬이 수행되는 과정 - YouTube](https://www.youtube.com/watch?v=XaqR3G_NVoo&ab_channel=AlgoRythmics)
+
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#코딩-테스트)
