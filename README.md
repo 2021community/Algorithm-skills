@@ -210,6 +210,13 @@ A집단이 B집단을 선택할 때 최고 효율적으로 선택할 수 있게 
 
 ## 이것만은 꼭!
 
+### 순회
+
+트리 구조에서 각각의 노드를 정확히 한 번만, 체계적인 방법으로 방문하는 과정을 말한다.
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> 순회 - 위키백과](https://ko.wikipedia.org/wiki/%ED%8A%B8%EB%A6%AC_%EC%88%9C%ED%9A%8C)
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.acmicpc.net" alt="Logo" /> 순회 - 추천문제](https://www.acmicpc.net/problem/10971)
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#코딩-테스트)
 
 ## ➤ 코딩 테스트
