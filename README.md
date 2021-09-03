@@ -130,6 +130,13 @@ Reach out to me on Twitter at [@AndreasMehlsen](https://twitter.com/AndreasMehls
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://twpower.github.io" alt="Logo" /> 트라이 - 블로그](https://twpower.github.io/187-trie-concept-and-basic-problem)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.acmicpc.net" alt="Logo" /> 트라이 - 추천문제](https://www.acmicpc.net/problem/14725)
 
+#### 매니커
+
+문자열에 존재하는 팰린드롬 부분 문자열을 빠르게 찾을 수 있는 알고리즘이다.
+
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.tistory.com/" alt="Logo" /> 매니커 - 블로그](https://00ad-8e71-00ff-055d.tistory.com/91)
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.acmicpc.net" alt="Logo" /> 매니커 - 추천문제](https://www.acmicpc.net/problem/13275)
+
 ## 이것만은 꼭!
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#코딩-테스트)
