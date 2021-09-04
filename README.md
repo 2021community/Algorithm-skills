@@ -120,9 +120,9 @@
 	* [프로그래머스](#프로그래머스)
 	* [코드업](#코드업)
 	* [SW Expert Academy](#sw-expert-academy)
-	
+
 * [➤ Contributors](#-contributors)
-* [➤ License](#-license)
+
 </details>
 
 
