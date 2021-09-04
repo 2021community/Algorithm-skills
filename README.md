@@ -1,6 +1,7 @@
 <!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️--><h1 align="center">Algorithm Skills</h1>
 <p align="center">
-	Web Skills is a visual overview of useful skills to learn as a web developer. Go to <a href="https://andreasbm.github.io/web-skills" target="_blank" aria-label="Link to Web Skills">https://andreasbm.github.io/web-skills</a> to check out the visual overview or scroll through this readme to get the overview <a href="#-fundamentals" target="_blank" aria-label="Link to list of skills">as a list</a>. If you like the project you are very welcome to <a href="https://github.com/andreasbm/web-skills/stargazers" aria-label="Become stargazer link">become a stargazer 🤩</a>
+	Algorithm Skills는 알고리즘 코딩테스트 합격을 위한 로드맵입니다. <a href="https://2021community.github.io/Algorithm-skills/" target="_blank" aria-label="Link to Algorithm Skills">https://2021community.github.io/Algorithm-skills/</a> 로 이동하여 로드맵을 확인하거나 README에서 목록으로 개요를 확인하세요!
+또한, 알고리즘에 필요한 추천 책과 알고리즘 학습 순서까지 확인 할 수 있습니다 🙌🏻
 </p> 
 <p align="center">
 	<a href="http://andreasbm.github.io/web-skills" target="_blank">
