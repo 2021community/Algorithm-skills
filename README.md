@@ -17,15 +17,10 @@
 ## ➤ Table of Contents
 
 * [➤ FAQ](#-faq)
-	* [What is Web Skills?](#what-is-web-skills)
-	* [How did you choose the skills?](#how-did-you-choose-the-skills)
-	* [How can I support you?](#how-can-i-support-you)
-	* [How can I get involved?](#how-can-i-get-involved)
-	* [How can I keep track of what skills I know?](#how-can-i-keep-track-of-what-skills-i-know)
-	* [I am overwhelmed! Help me!](#i-am-overwhelmed-help-me)
-	* [Why haven't you included XYZ Technology?](#why-havent-you-included-xyz-technology)
-	* [What does the "experimental" banner mean?](#what-does-the-experimental-banner-mean)
-	* [How can I get in contact with you?](#how-can-i-get-in-contact-with-you)
+	* [알고리즘 학습을 위한 책 추천](#알고리즘-학습을-위한-책-추천)
+	* [추천 책 목록](#추천-책-목록)
+	* [알고리즘은 어떤 순서로 배우는 게 좋나요?](#알고리즘은-어떤-순서로-배우는-게-좋나요)
+
 * [➤ 프로그래밍 언어](#-프로그래밍-언어)
 	<!-- ⚠️ 프로그래밍 언어 - 소분류 추가 예정 ⚠️-->
 * [➤ 자료구조](#-자료구조)
