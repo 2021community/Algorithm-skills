@@ -64,8 +64,50 @@
 		* [중위 순회](#중위-순회)
 		* [후위 순회](#후위-순회)
 
-* [➤ 알고리즘](#-알고리즘)
-	<!-- ⚠️ 알고리즘 - 소분류 추가 예정 ⚠️-->
+* [➤ 알고리즘](#-알고리즘)<br>
+	[알고리즘-기초](#알고리즘-기초)
+	* [정렬](#정렬)
+		* [버블 정렬](#버블-정렬)
+		* [선택 정렬](#선택-정렬)
+		* [병합 정렬](#병합-정렬)
+		* [퀵 정렬](#퀵-정렬)
+	* [검색](#검색)
+		* [선형 검색](#선형-검색)
+		* [이진 검색](#이진-검색)
+		* [두 포인터](#두-포인터)
+		* [해싱](#해싱)
+	* [DP](#dp기초)
+
+	[알고리즘-심화](#알고리즘-심화)
+	* [문자열](#문자열)
+		* [KMP](#kmp)
+		* [아호 코라식](#아호-코라식)
+		* [트라이](#트라이)
+		* [매니커](#매니커)
+	* [백트래킹](#백트래킹)
+	* [정수론](#정수론)
+	* [조합론](#조합론)
+	* [기하](#기하)
+	* [최단 경로](#최단-경로)
+		* [벨만 포드](#벨만-포드)
+		* [플로이드 와셜](#플로이드-와셜)
+	* [세그먼트 트리](#세그먼트-트리)
+	* [네트워크 플로우](#네트워크-플로우)
+		* [이분 매칭](#이분-매칭)
+
+	[알고리즘-이것만은 꼭!](#알고리즘-이것만은-꼭)
+	* [순회](#순회)
+		* [BFS](#순회-bfs)
+		* [DFS](#dfs)
+	* [그리디](#그리디)
+	* [최단 경로](#최단-경로)
+		* [BFS](#최단-경로-bfs)
+		* [다익스트라](#다익스트라)
+	* [브루트포스](#브루트포스)
+	* [이분 탐색](#이분-탐색)
+	* [재귀](#재귀)
+	* [DP](#dp이것만은-꼭)
+
 * [➤ 코딩 테스트](#-코딩-테스트)
 	<!-- ⚠️ 코딩 테스트 - 소분류 추가 예정 ⚠️-->
 * [➤ Contributors](#-contributors)
@@ -354,7 +396,7 @@ B 트리(B tree)는 데이터베이스와 파일 시스템에서 널리 사용�
 ## ➤ 알고리즘
 
 
-## 기초
+## 알고리즘-기초
 
 ### 정렬
 
@@ -426,14 +468,14 @@ B 트리(B tree)는 데이터베이스와 파일 시스템에서 널리 사용�
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> 해싱(해쉬 함수) - 위키백과](https://ko.wikipedia.org/wiki/%ED%95%B4%EC%8B%9C_%ED%95%A8%EC%88%98)
 * [ ] [<img style="margin-bottom: 0;" src="https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.acmicpc.net" alt="Logo" /> 해싱 추천문제 - 백준](https://www.acmicpc.net/problemset?sort=ranking_asc&algo=8&algo_if=and)
 
-#### DP
+#### DP(기초)
 
 DP는 복잡한 문제를 간단한 여러 개의 문제로 나누어 푸는 방법을 말한다.
 
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> DP - 위키백과](https://ko.wikipedia.org/wiki/%EB%8F%99%EC%A0%81_%EA%B3%84%ED%9A%8D%EB%B2%95)
 * [ ] [<img style="margin-bottom: 0;" src="https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.acmicpc.net" alt="Logo" /> DP 추천문제 - 백준](https://www.acmicpc.net/problemset?sort=ranking_asc&algo=25%2C92%2C108%2C87%2C107&algo_if=or)
 
-## 심화
+## 알고리즘-심화
 
 ### 문자열
 
@@ -542,7 +584,7 @@ A집단이 B집단을 선택할 때 최고 효율적으로 선택할 수 있게 
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://blog.naver.com" alt="Logo" /> 이분 매칭 - 블로그](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=ndb796&logNo=221240613074)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.acmicpc.net" alt="Logo" /> 이분 매칭 - 추천문제](https://www.acmicpc.net/problem/11375)
 
-## 이것만은 꼭!
+## 알고리즘-이것만은 꼭!
 
 ### 순회
 
@@ -551,7 +593,7 @@ A집단이 B집단을 선택할 때 최고 효율적으로 선택할 수 있게 
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> 순회 - 위키백과](https://ko.wikipedia.org/wiki/%ED%8A%B8%EB%A6%AC_%EC%88%9C%ED%9A%8C)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.acmicpc.net" alt="Logo" /> 순회 - 추천문제](https://www.acmicpc.net/problem/10971)
 
-#### BFS
+#### 순회-BFS
 
 시작 정점을 방문한 후 시작 정점에 인접한 모든 정점들을 우선 방문하는 방법이다.
 
@@ -579,7 +621,7 @@ A집단이 B집단을 선택할 때 최고 효율적으로 선택할 수 있게 
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://ko.wikipedia.org" alt="Logo" /> 최단 경로 - 위키백과](https://ko.wikipedia.org/wiki/%ED%83%90%EC%9A%95_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.acmicpc.net" alt="Logo" /> 최단 경로 - 추천문제](https://www.acmicpc.net/problem/18352)
 
-#### BFS
+#### 최단 경로-BFS
 
 가중치가 없는 그래프에서 최단경로를 찾는 경우에 사용하는 방법이다.
 
@@ -614,7 +656,7 @@ A집단이 B집단을 선택할 때 최고 효율적으로 선택할 수 있게 
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://velog.io" alt="Logo" /> 재귀 - velog](https://velog.io/@inyong_pang/4%EA%B0%95-%EC%9E%AC%EA%B7%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98recursive-algorithms%EA%B8%B0%EC%B4%88)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https://www.acmicpc.net" alt="Logo" /> 재귀 - 추천문제](https://www.acmicpc.net/problem/5904)
 
-### DP
+### DP(이것만은 꼭!)
 
 어떤 문제를 풀기 위해 그 문제를 더 작은 문제의 연장선으로 생각하고, 과거에 구한 해를 활용하는 기법이다. 즉 앞에서 구한 답을 재활용하는 것이다.
 
