@@ -10,12 +10,12 @@
 </p>
 <br />
 <details>
-<summary>📖 Table of Contents</summary>
+<summary>📖 목차</summary>
 <br />
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-## ➤ Table of Contents
+## ➤ 목차
 
 * [➤ FAQ](#-faq)
 	* [알고리즘 학습을 위한 책 추천](#알고리즘-학습을-위한-책-추천)
