@@ -5,7 +5,7 @@
 </p> 
 <p align="center">
 	<a href="http://andreasbm.github.io/web-skills" target="_blank">
-		<img src="https://user-images.githubusercontent.com/48914904/132095882-7c1e86d8-5bb3-4efc-b363-13996246cc76.gif" alt="Web Skills Demo" width="800" />
+		<img src="https://user-images.githubusercontent.com/48914904/132128309-ca3b046f-aee5-4355-992d-313a96d7e077.gif" alt="Web Skills Demo" width="800" />
 	</a>
 </p>
 <br />
