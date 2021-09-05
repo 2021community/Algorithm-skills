@@ -7,7 +7,7 @@ export const datastructureCollection = {
 				{
 					name: "배열",
 					description: {
-						text: "배열은 번호(인덱스)와 번호에 대응하는 데이터들로 이루어진 자료 구조를 나타낸다.",
+						text: "번호(인덱스)와 번호에 대응하는 데이터들로 이루어진 자료 구조를 나타낸다.",
 						links: [
 							["배열 - 위키백과", "https://ko.wikipedia.org/wiki/%EB%B0%B0%EC%97%B4"],
 							["배열 기초 - YouTube", "https://youtu.be/NFETSCJON2M"],
@@ -17,7 +17,7 @@ export const datastructureCollection = {
 				{
 					name: "연결 리스트",
 					description: {
-						text: "연결 리스트(linked list)는 각 노드가 데이터와 포인터를 가지고 한 줄로 연결되어 있는 방식으로 데이터를 저장하는 자료 구조이다.",
+						text: "각 노드가 데이터와 포인터를 가지고 한 줄로 연결되어 있는 방식으로 데이터를 저장하는 자료 구조이다.",
 						links: [
 							["연결 리스트 - 위키백과", "https://ko.wikipedia.org/wiki/%EC%97%B0%EA%B2%B0_%EB%A6%AC%EC%8A%A4%ED%8A%B8"],
 						]
@@ -26,7 +26,7 @@ export const datastructureCollection = {
 						{
 						   name: "단일 연결 리스트",
 						   description: {
-							  text: "단일 연결 리스트는 각 노드에 자료 공간과 한 개의 포인터 공간이 있고, 각 노드의 포인터는 다음 노드를 가리킨다.",
+							  text: "각 노드에 자료 공간과 한 개의 포인터 공간이 있고, 각 노드의 포인터는 다음 노드를 가리킨다.",
 							  links: [
 								 ["단일 연결 리스트 - 위키백과", "https://ko.wikipedia.org/wiki/%EC%97%B0%EA%B2%B0_%EB%A6%AC%EC%8A%A4%ED%8A%B8"],
 								]
@@ -35,7 +35,7 @@ export const datastructureCollection = {
 						{
 						   name: "이중 연결 리스트",
 						   description: {
-							  text: "이중 연결 리스트의 구조는 단일 연결 리스트와 비슷하지만, 포인터 공간이 두 개가 있고 각각의 포인터는 앞의 노드와 뒤의 노드를 가리킨다.",
+							  text: "구조는 단일 연결 리스트와 비슷하지만, 포인터 공간이 두 개가 있고 각각의 포인터는 앞의 노드와 뒤의 노드를 가리킨다.",
 							  links: [
 								["이중 연결 리스트 - 위키백과", "https://ko.wikipedia.org/wiki/%EC%97%B0%EA%B2%B0_%EB%A6%AC%EC%8A%A4%ED%8A%B8"],
 							   ]
@@ -44,7 +44,7 @@ export const datastructureCollection = {
 						{
 							name: "원형 연결 리스트",
 							description: {
-							  text: "원형 연결 리스트는 일반적인 연결 리스트에 마지막 노드와 처음 노드를 연결시켜 원형으로 만든 구조이다.",
+							  text: "일반적인 연결 리스트에 마지막 노드와 처음 노드를 연결시켜 원형으로 만든 구조이다.",
 							  links: [
 							   ["원형 연결 리스트 - 위키백과", "https://ko.wikipedia.org/wiki/%EC%97%B0%EA%B2%B0_%EB%A6%AC%EC%8A%A4%ED%8A%B8"],
 							   ]
@@ -56,7 +56,7 @@ export const datastructureCollection = {
 				{
 					name: "스택",
 					description: {
-						text: "스택(stack)은 제한적으로 접근할 수 있는 나열 구조이다. 그 접근 방법은 언제나 목록의 끝에서만 일어난다. 끝먼저내기 목록(Pushdown list)이라고도 한다.",
+						text: "한쪽 끝에서만 삽입과 삭제가 가능한 자료구조의 한 형태이다.",
 						links: [
 							["스택 - 위키백과", "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%83%9D"],
 							["스택 기초 - YouTube", "https://youtu.be/DsZHDmth6Pc"],
@@ -67,7 +67,7 @@ export const datastructureCollection = {
 				{
 					name: "큐",
 					description: {
-						text: "큐(queue)는 컴퓨터의 기본적인 자료 구조의 한가지로, 먼저 집어 넣은 데이터가 먼저 나오는 FIFO(First In First Out)구조로 저장하는 형식을 말한다.",
+						text: "한쪽에선 삽입만 가능하고, 다른 한쪽에서는 삭제만 가능한 자료구조의 한 형태이다.",
 						links: [
 							["큐 - 위키백과", "https://ko.wikipedia.org/wiki/%ED%81%90_(%EC%9E%90%EB%A3%8C_%EA%B5%AC%EC%A1%B0)"],
 						]
@@ -77,7 +77,7 @@ export const datastructureCollection = {
 				{
 					name: "덱",
 					description: {
-						text: "덱(deque)는 양쪽 끝에서 삽입과 삭제가 모두 가능한 자료 구조의 한 형태이다.",
+						text: "양쪽 끝에서 삽입과 삭제가 모두 가능한 자료 구조의 한 형태이다.",
 						links: [
 							["덱 - 위키백과", "https://ko.wikipedia.org/wiki/%EB%8D%B1_(%EC%9E%90%EB%A3%8C_%EA%B5%AC%EC%A1%B0)"],
 						]
@@ -87,7 +87,7 @@ export const datastructureCollection = {
 				{
 					name: "시간 복잡도",
 					description: {
-						text: "알고리즘의 시간복잡도는 입력을 나타내는 문자열 길이의 함수로서 작동하는 알고리즘을 취해 시간을 정량화하는 것이다.",
+						text: "알고리즘이 어떤 문제를 해결하는 데 걸리는 시간을 의미하며, 알고리즘의 효율성을 평가하는데 사용된다.",
 						links: [
 							["시간 복잡도 - 위키백과", "https://ko.wikipedia.org/wiki/%EC%8B%9C%EA%B0%84_%EB%B3%B5%EC%9E%A1%EB%8F%84"],
 						]
@@ -96,7 +96,7 @@ export const datastructureCollection = {
 						{
 						   name: "빅오 표기법",
 						   description: {
-							  text: "f(x)=o(g(x)) : 임의의 c>0에 대해 M이 존재하여 x > M => |f(x)| ≤ cg(x)",
+							  text: "알고리즘 실행 시, 가장 최악의 경우를 가정하여 시간복잡도를 표기하는 기법이다. 시간 복잡도의 표기법 중에 가장 보편적으로 사용된다.",
 							  links: [
 								 ["빅오 표기법 - 위키백과", "https://ko.wikipedia.org/wiki/%EC%A0%90%EA%B7%BC_%ED%91%9C%EA%B8%B0%EB%B2%95#%EB%8C%80%EB%AC%B8%EC%9E%90_O_%ED%91%9C%EA%B8%B0%EB%B2%95_(Big-O_notation)"],
 								]
@@ -106,7 +106,7 @@ export const datastructureCollection = {
 						{
 							name: "빅세타 표기법",
 							description: {
-							   text: "f(x)=Θ(g(x)) : f(x)>0 중에서 f(x) = O(g(x))이며 f(x) = Ω(g(x))",
+							   text: "알고리즘 실행 시, 평균적인 경우를 가정하여 시간복잡도를 표기하는 기법이다.",
 							   links: [
 								  ["빅세타 표기법 - 위키백과", "https://ko.wikipedia.org/wiki/%EC%A0%90%EA%B7%BC_%ED%91%9C%EA%B8%B0%EB%B2%95#%EB%8C%80%EB%AC%B8%EC%9E%90_O_%ED%91%9C%EA%B8%B0%EB%B2%95_(Big-O_notation)"],
 								 ]
@@ -116,7 +116,7 @@ export const datastructureCollection = {
 						 {
 							name: "빅오메가 표기법",
 							description: {
-							   text: "f(x)=Ω(g(x)) : M,c>0이 존재하여 x > M => |f(x)| > cg(x)",
+							   text: "알고리즘 실행 시, 가장 최선의 경우를 가정하여 시간복잡도를 표기하는 기법이다.",
 							   links: [
 								 ["빅오메가 표기법 - 위키백과", "https://ko.wikipedia.org/wiki/%EC%A0%90%EA%B7%BC_%ED%91%9C%EA%B8%B0%EB%B2%95#%EB%8C%80%EB%AC%B8%EC%9E%90_O_%ED%91%9C%EA%B8%B0%EB%B2%95_(Big-O_notation)"],
 								]
