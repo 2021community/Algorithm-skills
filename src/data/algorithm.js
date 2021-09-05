@@ -291,7 +291,7 @@ export const algorithmCollection = {
                         text: "트리 구조에서 각각의 노드를 정확히 한 번만, 체계적인 방법으로 방문하는 과정을 말한다.",
                         links: [
                             ["순회 - 위키백과", "https://ko.wikipedia.org/wiki/%ED%8A%B8%EB%A6%AC_%EC%88%9C%ED%9A%8C"],
-                            ["순회 - 추천문제", "https://www.acmicpc.net/problem/10971"],
+                            ["순회 추천문제 - 백준", "https://www.acmicpc.net/problem/10971"],
                         ]
                     },
                     skills: [
@@ -301,7 +301,7 @@ export const algorithmCollection = {
                                 text: "시작 정점을 방문한 후 시작 정점에 인접한 모든 정점들을 우선 방문하는 방법이다.",
                                 links: [
                                     ["BFS - 위키백과", "https://ko.wikipedia.org/wiki/%EB%84%88%EB%B9%84_%EC%9A%B0%EC%84%A0_%ED%83%90%EC%83%89"],
-                                    ["BFS - 추천문제", "https://www.acmicpc.net/problem/4963"],
+                                    ["BFS 추천문제 - 백준", "https://www.acmicpc.net/problem/4963"],
                                 ]
                             },
                         },
@@ -311,7 +311,7 @@ export const algorithmCollection = {
                                 text: "시작점 부터 다음 분기로 넘어가기 전에 해당 분기를 완벽하게 탐색하고 넘어가는 방법이다.",
                                 links: [
                                     ["DFS - 위키백과", "https://ko.wikipedia.org/wiki/%EA%B9%8A%EC%9D%B4_%EC%9A%B0%EC%84%A0_%ED%83%90%EC%83%89"],
-                                    ["DFS - 추천문제", "https://www.acmicpc.net/problem/2617"],
+                                    ["DFS 추천문제 - 백준", "https://www.acmicpc.net/problem/2617"],
                                 ]
                             },
                         }
@@ -323,7 +323,7 @@ export const algorithmCollection = {
                         text: "\"매 선택에서 지금 이 순간 당장 최적인 답을 선택하여 적합한 결과를 도출하자\" 라는 모토를 가지는 알고리즘 설계 기법이다. 따라서 종합적으로 봤을 때 최적이라는 보장은 절대 없다는 것을 명심해야 한다.",
                         links: [
                             ["그리디 - 위키백과", "https://ko.wikipedia.org/wiki/%ED%83%90%EC%9A%95_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98"],
-                            ["그리디 - 추천문제", "https://www.acmicpc.net/problem/2839"],
+                            ["그리디 추천문제 - 백준", "https://www.acmicpc.net/problem/2839"],
                         ]
                     },
                 },
@@ -333,7 +333,7 @@ export const algorithmCollection = {
                         text: "가장 짧은 경로에서 두 꼭짓점을 찾는 문제로서, 가중 그래프에서는 구성하는 변들의 가중치 합이 최소가 되도록 하는 경로를 찾는 문제이다. 예를 들면, 도로 지도 상의 한 지점에서 다른 지점으로 갈 때 가장 빠른 길을 찾는 것과 비슷한 문제이다. 이 때, 각 도로 구간에서 걸리는 시간을 변의 가중치라 할 수 있다.",
                         links: [
                             ["최단 경로 - 위키백과", "https://ko.wikipedia.org/wiki/%ED%83%90%EC%9A%95_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98"],
-                            ["최단 경로 - 추천문제", "https://www.acmicpc.net/problem/18352"],
+                            ["최단 경로 추천문제 - 백준", "https://www.acmicpc.net/problem/18352"],
                         ]
                     },
                     skills: [
@@ -343,7 +343,7 @@ export const algorithmCollection = {
                                 text: "가중치가 없는 그래프에서 최단경로를 찾는 경우에 사용하는 방법이다.",
                                 links: [
                                     ["BFS - velog", "https://velog.io/@kasterra/%ED%95%B5%EC%8B%AC-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EA%B7%B8%EB%9E%98%ED%94%84-%EC%B5%9C%EB%8B%A8-%EA%B2%BD%EB%A1%9C-%ED%83%90%EC%83%89"],
-                                    ["BFS - 추천문제", "https://www.acmicpc.net/problem/2665"],
+                                    ["BFS 추천문제 - 백준", "https://www.acmicpc.net/problem/2665"],
                                 ]
                             },
                         },
@@ -353,7 +353,7 @@ export const algorithmCollection = {
                                 text: "가중치가 있으며 음수 간선이 없는 그래프에서 최단경로를 찾는 경우에 사용하는 방법이다.",
                                 links: [
                                     ["다익스트라 - 위키백과", "https://ko.wikipedia.org/wiki/%EB%8D%B0%EC%9D%B4%ED%81%AC%EC%8A%A4%ED%8A%B8%EB%9D%BC_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98"],
-                                    ["다익스트라 - 추천문제", "https://www.acmicpc.net/problem/1261"],
+                                    ["다익스트라 추천문제 - 백준", "https://www.acmicpc.net/problem/1261"],
                                 ]
                             },
                         }
@@ -365,7 +365,7 @@ export const algorithmCollection = {
                         text: "완전탐색이라고도 하며, 가능한 모든 경우의 수를 대입해보며 문제를 해결하는 기법이다.",
                         links: [
                             ["브루트포스 - 나무위키", "https://namu.wiki/w/%EB%B8%8C%EB%A3%A8%ED%8A%B8%20%ED%8F%AC%EC%8A%A4"],
-                            ["브루트포스 - 추천문제", "https://www.acmicpc.net/problem/1436"],
+                            ["브루트포스 추천문제 - 백준", "https://www.acmicpc.net/problem/1436"],
                         ]
                     },
                 },
@@ -375,7 +375,7 @@ export const algorithmCollection = {
                         text: "정렬되어 있는 데이터에서 탐색 범위를 절반씩 좁혀가며 찾아가는 탐색 방법이다.",
                         links: [
                             ["이분 탐색 - velog", "https://velog.io/@kimdukbae/%EC%9D%B4%EB%B6%84-%ED%83%90%EC%83%89-%EC%9D%B4%EC%A7%84-%ED%83%90%EC%83%89-Binary-Search"],
-                            ["이분 탐색 - 추천문제", "https://www.acmicpc.net/problem/1939"],
+                            ["이분 탐색 추천문제 - 백준", "https://www.acmicpc.net/problem/1939"],
                         ]
                     },
                 },
@@ -384,8 +384,8 @@ export const algorithmCollection = {
                     description: {
                         text: "하나의 함수에서 자기자신을 다시 호출하여 작업을 수행하는 것으로, 분할정복 알고리즘을 구현할 때 주로 쓰는 방법이다.",
                         links: [
-                            ["재귀 - velog(재귀 알고리즘의 기초)", "https://velog.io/@inyong_pang/4%EA%B0%95-%EC%9E%AC%EA%B7%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98recursive-algorithms%EA%B8%B0%EC%B4%88"],
-                            ["재귀 - 추천문제", "https://www.acmicpc.net/problem/5904"],
+                            ["재귀 알고리즘의 기초 - velog", "https://velog.io/@inyong_pang/4%EA%B0%95-%EC%9E%AC%EA%B7%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98recursive-algorithms%EA%B8%B0%EC%B4%88"],
+                            ["재귀 추천문제 - 백준", "https://www.acmicpc.net/problem/5904"],
                         ]
                     },
                 },
@@ -395,7 +395,7 @@ export const algorithmCollection = {
                         text: "어떤 문제를 풀기 위해 그 문제를 더 작은 문제의 연장선으로 생각하고, 과거에 구한 해를 활용하는 기법이다. 즉 앞에서 구한 답을 재활용하는 것이다.",
                         links: [
                             ["DP - 나무위키", "https://namu.wiki/w/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95"],
-                            ["DP - 추천문제", "https://www.acmicpc.net/problem/2533"],
+                            ["DP 추천문제 - 백준", "https://www.acmicpc.net/problem/2533"],
                         ]
                     },
                 }
