@@ -10,7 +10,7 @@ export const datastructureCollection = {
 						text: "배열은 번호(인덱스)와 번호에 대응하는 데이터들로 이루어진 자료 구조를 나타낸다.",
 						links: [
 							["배열 - 위키백과", "https://ko.wikipedia.org/wiki/%EB%B0%B0%EC%97%B4"],
-							["배열 기초 YOUTUBE", "https://youtu.be/NFETSCJON2M"],
+							["배열 기초 - YouTube", "https://youtu.be/NFETSCJON2M"],
 						]
 					}
 				},
@@ -59,7 +59,7 @@ export const datastructureCollection = {
 						text: "스택(stack)은 제한적으로 접근할 수 있는 나열 구조이다. 그 접근 방법은 언제나 목록의 끝에서만 일어난다. 끝먼저내기 목록(Pushdown list)이라고도 한다.",
 						links: [
 							["스택 - 위키백과", "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%83%9D"],
-							["스택 기초 YOUTUBE", "https://youtu.be/DsZHDmth6Pc"],
+							["스택 기초 - YouTube", "https://youtu.be/DsZHDmth6Pc"],
 						]
 					}
 				},
@@ -98,7 +98,7 @@ export const datastructureCollection = {
 						   description: {
 							  text: "f(x)=o(g(x)) : 임의의 c>0에 대해 M이 존재하여 x > M => |f(x)| ≤ cg(x)",
 							  links: [
-								 ["빅오 표기법 - 나무위키", "https://ko.wikipedia.org/wiki/%EC%A0%90%EA%B7%BC_%ED%91%9C%EA%B8%B0%EB%B2%95#%EB%8C%80%EB%AC%B8%EC%9E%90_O_%ED%91%9C%EA%B8%B0%EB%B2%95_(Big-O_notation)"],
+								 ["빅오 표기법 - 위키백과", "https://ko.wikipedia.org/wiki/%EC%A0%90%EA%B7%BC_%ED%91%9C%EA%B8%B0%EB%B2%95#%EB%8C%80%EB%AC%B8%EC%9E%90_O_%ED%91%9C%EA%B8%B0%EB%B2%95_(Big-O_notation)"],
 								]
 						   },
 						},
@@ -108,7 +108,7 @@ export const datastructureCollection = {
 							description: {
 							   text: "f(x)=Θ(g(x)) : f(x)>0 중에서 f(x) = O(g(x))이며 f(x) = Ω(g(x))",
 							   links: [
-								  ["빅세타 표기법 - 나무위키", "https://ko.wikipedia.org/wiki/%EC%A0%90%EA%B7%BC_%ED%91%9C%EA%B8%B0%EB%B2%95#%EB%8C%80%EB%AC%B8%EC%9E%90_O_%ED%91%9C%EA%B8%B0%EB%B2%95_(Big-O_notation)"],
+								  ["빅세타 표기법 - 위키백과", "https://ko.wikipedia.org/wiki/%EC%A0%90%EA%B7%BC_%ED%91%9C%EA%B8%B0%EB%B2%95#%EB%8C%80%EB%AC%B8%EC%9E%90_O_%ED%91%9C%EA%B8%B0%EB%B2%95_(Big-O_notation)"],
 								 ]
 							},
 						 },
@@ -118,7 +118,7 @@ export const datastructureCollection = {
 							description: {
 							   text: "f(x)=Ω(g(x)) : M,c>0이 존재하여 x > M => |f(x)| > cg(x)",
 							   links: [
-								 ["빅오메가 표기법 - 나무위키", "https://ko.wikipedia.org/wiki/%EC%A0%90%EA%B7%BC_%ED%91%9C%EA%B8%B0%EB%B2%95#%EB%8C%80%EB%AC%B8%EC%9E%90_O_%ED%91%9C%EA%B8%B0%EB%B2%95_(Big-O_notation)"],
+								 ["빅오메가 표기법 - 위키백과", "https://ko.wikipedia.org/wiki/%EC%A0%90%EA%B7%BC_%ED%91%9C%EA%B8%B0%EB%B2%95#%EB%8C%80%EB%AC%B8%EC%9E%90_O_%ED%91%9C%EA%B8%B0%EB%B2%95_(Big-O_notation)"],
 								]
 							},
 						  }
@@ -140,7 +140,7 @@ export const datastructureCollection = {
 						text: "트리 구조(tree)란 그래프의 일종으로, 여러 노드가 한 노드를 가리킬 수 없는 구조이다. 간단하게는 회로가 없고, 서로 다른 두 노드를 잇는 길이 하나뿐인 그래프를 트리라고 부른다.",
 						links: [
 							["트리 - 위키백과", "https://ko.wikipedia.org/wiki/%ED%8A%B8%EB%A6%AC_%EA%B5%AC%EC%A1%B0"],
-							["트리 핵심 요약 YOUTUBE", "https://youtu.be/i5yHkP1jQmo"],
+							["트리 핵심 요약 - YouTube", "https://youtu.be/i5yHkP1jQmo"],
 						]
 					},
 					skills: [
@@ -161,7 +161,7 @@ export const datastructureCollection = {
 							  text: "이진 트리(binary tree)는 각각의 노드가 최대 두 개의 자식 노드를 가지는 트리 자료 구조로, 자식 노드를 각각 왼쪽 자식 노드와 오른쪽 자식 노드라고 한다. ",
 							  links: [
 								 ["이진 트리 - 위키백과", "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A7%84_%ED%8A%B8%EB%A6%AC"],
-								 ["이진 트리 개념 YOUTUBE", "https://youtu.be/P8gbyzHZgfY"]
+								 ["이진 트리 개념 - YouTube", "https://youtu.be/P8gbyzHZgfY"]
 								]
 						   },
 						   skills: [
@@ -180,7 +180,7 @@ export const datastructureCollection = {
 								   text: "레드-블랙 트리(Red-black tree)는 자가 균형 이진 탐색 트리(self-balancing binary search tree)로서, 대표적으로는 연관 배열 등을 구현하는 데 쓰이는 자료구조다. ",
 								   links: [
 									  ["Red-Black 트리 - 위키백과", "https://ko.wikipedia.org/wiki/%EB%A0%88%EB%93%9C-%EB%B8%94%EB%9E%99_%ED%8A%B8%EB%A6%AC"],
-									  ["Red-Black 트리 개념 YOUTUBE" , "https://youtu.be/SHdYv41iCmE"]
+									  ["Red-Black 트리 개념 - YouTube" , "https://youtu.be/SHdYv41iCmE"]
 									 ]
 								},
 							 },
