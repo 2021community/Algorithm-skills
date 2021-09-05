@@ -5,10 +5,10 @@
 html {
 	--base-size: 16;
 
-	--background: rgb(11, 11, 25);
-	--foreground: rgb(232, 232, 234);
+	--background: url(./background.png);
+	--foreground: rgb(234, 234, 234);
 
-	--background-opaque: rgba(11, 11, 25, 0.9);
+	--background-opaque: rgba(66, 100, 2, 0.4);
 
 
 	--link: rgb(92, 133, 255);
@@ -24,7 +24,7 @@ html {
 	--shade-800: rgb(230, 230, 230);
 	--shade-900: rgb(240, 240, 240);
 	
-	--primary-500: rgb(73, 203, 92);
+	--primary-500: rgb(40, 65, 0);
 
 	--shadow: rgba(0, 0, 0, 0.15);
 	--box-shadow: 0 2px 5px var(--shadow);
@@ -54,7 +54,7 @@ html {
 	font-size: calc(var(--base-size, 16) * 1px);
 	font-family: var(--font-family);
 	background: var(--background);
-	color: var(--foreground);
+	color: var(--primary-500);
 	touch-action: manipulation;
 }
 
