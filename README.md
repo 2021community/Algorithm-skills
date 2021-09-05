@@ -1,11 +1,11 @@
 <!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️--><h1 align="center">Algorithm Skills</h1>
 <p align="center">
 	Algorithm Skills는 알고리즘 코딩테스트 합격을 위한 로드맵입니다. <a href="https://2021community.github.io/Algorithm-skills/" target="_blank" aria-label="Link to Algorithm Skills">https://2021community.github.io/Algorithm-skills/</a> 로 이동하여 로드맵을 확인하거나 README에서 목록으로 개요를 확인하세요!
-또한, 알고리즘에 필요한 추천 책과 알고리즘 학습 순서까지 확인 할 수 있습니다 🙌🏻
+또한, 알고리즘에 필요한 추천 책과 알고리즘 학습 순서까지 확인 할 수 있습니다. 🙌🏻
 </p> 
 <p align="center">
 	<a href="http://andreasbm.github.io/web-skills" target="_blank">
-		<img src="https://user-images.githubusercontent.com/48914904/132095882-7c1e86d8-5bb3-4efc-b363-13996246cc76.gif" alt="Web Skills Demo" width="800" />
+		<img src="https://user-images.githubusercontent.com/48914904/132128309-ca3b046f-aee5-4355-992d-313a96d7e077.gif" alt="Web Skills Demo" width="800" />
 	</a>
 </p>
 <br />

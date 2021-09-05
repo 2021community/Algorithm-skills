@@ -44,7 +44,7 @@ export class Description extends LitElement {
 			sharedStyles,
 			css`
 				:host {
-					background: var(--background);
+					background: var(--black);
 					color: var(--foreground);
 					padding: var(--spacing-l);
 					border-radius: var(--border-radius-s);
