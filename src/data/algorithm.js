@@ -330,7 +330,7 @@ export const algorithmCollection = {
                 {
                     name: "최단 경로",
                     description: {
-                        text: "가장 짧은 경로에서 두 꼭짓점을 찾는 문제로서, 가중 그래프에서는 구성하는 변들의 가중치 합이 최소가 되도록 하는 경로를 찾는 문제이다. 예를 들면, 도로 지도 상의 한 지점에서 다른 지점으로 갈 때 가장 빠른 길을 찾는 것과 비슷한 문제이다. 이 때, 각 도로 구간에서 걸리는 시간을 변의 가중치라 할 수 있다.",
+                        text: "두 꼭짓점에 대해 가장 짧은 경로를 찾는 문제로서, 가중 그래프에서는 구성하는 변들의 가중치 합이 최소가 되도록 하는 경로를 찾는 문제이다.",
                         links: [
                             ["최단 경로 - 위키백과", "https://ko.wikipedia.org/wiki/%ED%83%90%EC%9A%95_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98"],
                             ["최단 경로 추천문제 - 백준", "https://www.acmicpc.net/problem/18352"],
@@ -392,7 +392,7 @@ export const algorithmCollection = {
                 {
                     name: "DP",
                     description: {
-                        text: "어떤 문제를 풀기 위해 그 문제를 더 작은 문제의 연장선으로 생각하고, 과거에 구한 해를 활용하는 기법이다. 즉 앞에서 구한 답을 재활용하는 것이다.",
+                        text: "어떤 문제를 풀기 위해 그 문제를 더 작은 문제의 연장선으로 생각하고, 과거에 구한 해를 활용하는 기법이다.",
                         links: [
                             ["DP - 나무위키", "https://namu.wiki/w/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95"],
                             ["DP 추천문제 - 백준", "https://www.acmicpc.net/problem/2533"],
